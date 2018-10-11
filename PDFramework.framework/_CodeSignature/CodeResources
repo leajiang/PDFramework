@@ -10,19 +10,35 @@
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback001@2x.png</key>
 		<data>
-		d9JGqASqwyn42OULDGMryNboIqQ=
+		h08m4F3CE8jA4QvnW9+SjlLM6r4=
+		</data>
+		<key>EaseUIResource.bundle/VoiceSearchFeedback001@3x.png</key>
+		<data>
+		UcI3SaO2GFYRbFW2coNAvd1+dT0=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback002@2x.png</key>
 		<data>
-		tuP7HW6PAn1zs1q9UBmwpXhQdFs=
+		4JFyv+VAHfW7QREtglZ2MZjwluk=
+		</data>
+		<key>EaseUIResource.bundle/VoiceSearchFeedback002@3x.png</key>
+		<data>
+		3fyE8Rcbo1y7QZsozBwmDPHh2Oc=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback003@2x.png</key>
 		<data>
-		XQpLlVAJza9cc4W/Jay0vDAeh1g=
+		WAxDPbbbMZuAPK67VDF7TC24Xu8=
+		</data>
+		<key>EaseUIResource.bundle/VoiceSearchFeedback003@3x.png</key>
+		<data>
+		qwzGYCZcoi2DAzSkUdESw6MD+p8=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback004@2x.png</key>
 		<data>
-		tw3/kG2bmfuvlmfS5DNcnO5sDpE=
+		lUCKfjh7qtiEe1v5TDlKGOQxiMI=
+		</data>
+		<key>EaseUIResource.bundle/VoiceSearchFeedback004@3x.png</key>
+		<data>
+		HcpK4NrgMxfzqCGDjqIHIWaFj90=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback005@2x.png</key>
 		<data>
@@ -106,7 +122,11 @@
 		</data>
 		<key>EaseUIResource.bundle/chatBar_colorMore_camera@2x.png</key>
 		<data>
-		EV0auasynyKEpHW6MeEapj1dpJ4=
+		0UAN4CBM5ALJX6KsyU3K8RLIs8g=
+		</data>
+		<key>EaseUIResource.bundle/chatBar_colorMore_camera@3x.png</key>
+		<data>
+		7BDTz7ypXg47XKrO1n7agOjkBnA=
 		</data>
 		<key>EaseUIResource.bundle/chatBar_colorMore_cameraSelected@2x.png</key>
 		<data>
@@ -122,7 +142,11 @@
 		</data>
 		<key>EaseUIResource.bundle/chatBar_colorMore_photo@2x.png</key>
 		<data>
-		D87LKq6zCgjHW26PLhhQ18+Ewf4=
+		C9DB3TOhDaYMZATs9bcISF+lCIs=
+		</data>
+		<key>EaseUIResource.bundle/chatBar_colorMore_photo@3x.png</key>
+		<data>
+		75lMmhA5/KG3qfe9aX815d0ZRmY=
 		</data>
 		<key>EaseUIResource.bundle/chatBar_colorMore_photoSelected@2x.png</key>
 		<data>
@@ -146,7 +170,11 @@
 		</data>
 		<key>EaseUIResource.bundle/chatBar_face@2x.png</key>
 		<data>
-		WvbCodUTpq7OgGNZw5w7ewbkKQU=
+		ATlsmTMdWD01D34235wpqeUyylw=
+		</data>
+		<key>EaseUIResource.bundle/chatBar_face@3x.png</key>
+		<data>
+		8l3cTE7rRcneYWpRlG4t/52nuJk=
 		</data>
 		<key>EaseUIResource.bundle/chatBar_faceSelected@2x.png</key>
 		<data>
@@ -154,7 +182,11 @@
 		</data>
 		<key>EaseUIResource.bundle/chatBar_keyboard@2x.png</key>
 		<data>
-		qdsCOZ5KHGtkS8t7lfqu6zWFgAg=
+		fkpXChbiICbor9rFA1seHw+sYy8=
+		</data>
+		<key>EaseUIResource.bundle/chatBar_keyboard@3x.png</key>
+		<data>
+		mdDV1VqIVb3OnGjhguf3tT8NTYs=
 		</data>
 		<key>EaseUIResource.bundle/chatBar_keyboardSelected@2x.png</key>
 		<data>
@@ -162,7 +194,11 @@
 		</data>
 		<key>EaseUIResource.bundle/chatBar_more@2x.png</key>
 		<data>
-		6ZQFexfs1eV4oeqgnBjfS8h+0LQ=
+		kQA1UJx2SY2wSSWcF8j9lkLiF4o=
+		</data>
+		<key>EaseUIResource.bundle/chatBar_more@3x.png</key>
+		<data>
+		D54xdvqGdKb2a/2dyq/h/gK6E1o=
 		</data>
 		<key>EaseUIResource.bundle/chatBar_moreSelected@2x.png</key>
 		<data>
@@ -170,7 +206,11 @@
 		</data>
 		<key>EaseUIResource.bundle/chatBar_record@2x.png</key>
 		<data>
-		kDHYQ8GAJTkjZc7/MiEKDfJkGfA=
+		0gg4Mqat1MwSKrzIGGMO+I/RyOI=
+		</data>
+		<key>EaseUIResource.bundle/chatBar_record@3x.png</key>
+		<data>
+		OGys37+GWQ8LOBuZpca1w6fkpjA=
 		</data>
 		<key>EaseUIResource.bundle/chatBar_recordBg@2x.png</key>
 		<data>
@@ -192,53 +232,105 @@
 		<data>
 		qvpnPj4tCsR+IZzDTITNJzJKMpU=
 		</data>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing0001@2x.png</key>
+		<data>
+		SsUElHBR02hVqppAM0IK82So6bc=
+		</data>
 		<key>EaseUIResource.bundle/chat_receiver_audio_playing000@2x.png</key>
 		<data>
-		x4bcz3EvAWJNXOg24TD72gAzUmk=
+		eXi6r167N6X38c7C+UVkdcYyyT0=
+		</data>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing000@3x.png</key>
+		<data>
+		Lhrz/k+rkaax8xmp4GV6SRWKsrw=
 		</data>
 		<key>EaseUIResource.bundle/chat_receiver_audio_playing001@2x.png</key>
 		<data>
 		dZHlWHGNCvTPhP64Y2eCk0rgDts=
 		</data>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing001@3x.png</key>
+		<data>
+		sPTzeHCn5UfTQdR46aaFENPvZ3w=
+		</data>
 		<key>EaseUIResource.bundle/chat_receiver_audio_playing002@2x.png</key>
 		<data>
-		6TuUGvtaIl/soYQrhkDf1+eZ8y4=
+		WMqyTSxnmvclSxHc53on3rDEUYA=
+		</data>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing002@3x.png</key>
+		<data>
+		hS1EnwAl6QdjXdo+o72jDxevA0Y=
 		</data>
 		<key>EaseUIResource.bundle/chat_receiver_audio_playing003@2x.png</key>
 		<data>
-		d4kmutYJ6V5VznAnvNQkQiuyCqM=
+		r+ROlu1jKcLJUuHf9fZRPvHc528=
+		</data>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing003@3x.png</key>
+		<data>
+		abY2Y1F9cqMTUpmOqbFDnF2g9bw=
 		</data>
 		<key>EaseUIResource.bundle/chat_receiver_audio_playing_full@2x.png</key>
 		<data>
-		WrENGh9V0OtqKWyN7MJZvW6gOqM=
+		r+ROlu1jKcLJUuHf9fZRPvHc528=
+		</data>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing_full@3x.png</key>
+		<data>
+		abY2Y1F9cqMTUpmOqbFDnF2g9bw=
 		</data>
 		<key>EaseUIResource.bundle/chat_receiver_bg@2x.png</key>
 		<data>
-		V2Wse0wRHb+97MU0tteuT22HkBI=
+		u6SXSnd05SdgvyOS8NJqD7ks2PU=
+		</data>
+		<key>EaseUIResource.bundle/chat_receiver_bg@3x.png</key>
+		<data>
+		7wkpUJTHtKN1FyBpwFs6UJKEvgQ=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_000@2x.png</key>
 		<data>
-		x4bcz3EvAWJNXOg24TD72gAzUmk=
+		eXi6r167N6X38c7C+UVkdcYyyT0=
+		</data>
+		<key>EaseUIResource.bundle/chat_sender_audio_playing_000@3x.png</key>
+		<data>
+		Lhrz/k+rkaax8xmp4GV6SRWKsrw=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_001@2x.png</key>
 		<data>
-		ST3iKcVRCuOOwFDU2J1L/7UpsxU=
+		Erbq/hAPOHdPwVmNMUrx6ZzRGEQ=
+		</data>
+		<key>EaseUIResource.bundle/chat_sender_audio_playing_001@3x.png</key>
+		<data>
+		TxJBat8lowtM2ZQmGGI6jh5n2dQ=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_002@2x.png</key>
 		<data>
-		aLDAkwkeTXJOyj59zmzleDY9Iic=
+		7k57M3ytmAZnzZp8VQv6Mw+vMvU=
+		</data>
+		<key>EaseUIResource.bundle/chat_sender_audio_playing_002@3x.png</key>
+		<data>
+		4+8rz/z2APpsGpII8bEB5Mx03hw=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_003@2x.png</key>
 		<data>
-		ojg3QO+jyHnen3AvSXm53wieroU=
+		URywPAQoIUtLKUVqW6GAJxyln5A=
+		</data>
+		<key>EaseUIResource.bundle/chat_sender_audio_playing_003@3x.png</key>
+		<data>
+		KsxG6GW5/9Nrg1stPrvaGRjcgmQ=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_full@2x.png</key>
 		<data>
-		87zEMee19VZmOdQxtzxtFsxyJRc=
+		URywPAQoIUtLKUVqW6GAJxyln5A=
+		</data>
+		<key>EaseUIResource.bundle/chat_sender_audio_playing_full@3x.png</key>
+		<data>
+		KsxG6GW5/9Nrg1stPrvaGRjcgmQ=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_bg@2x.png</key>
 		<data>
-		NrXL+FUh8DoZiRg+3lkH2IJfDJ4=
+		ebWFZNcxcKlx6L+dzEOfV7BslJs=
+		</data>
+		<key>EaseUIResource.bundle/chat_sender_bg@3x.png</key>
+		<data>
+		/T2bsDpbIdaQQ21D1sB4SRLLzXo=
 		</data>
 		<key>EaseUIResource.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -350,6 +442,10 @@
 		<data>
 		HGzmi+9a9IgTwT5lY9XXnIR9stU=
 		</data>
+		<key>Headers/EaseBubbleView+Goods.h</key>
+		<data>
+		oYfS+Fe7L3EKKINTFhv+YPymL6A=
+		</data>
 		<key>Headers/EaseBubbleView+Image.h</key>
 		<data>
 		1n67lztVBmaSIX3UpDxO0K+1rQ4=
@@ -372,7 +468,7 @@
 		</data>
 		<key>Headers/EaseBubbleView.h</key>
 		<data>
-		GgcDZzoHOLynzHBWnHwgqBjaRaI=
+		61+WBCrwxAFGFozECs02ySRIet8=
 		</data>
 		<key>Headers/EaseChatBarMoreView.h</key>
 		<data>
@@ -380,7 +476,7 @@
 		</data>
 		<key>Headers/EaseChatToolbar.h</key>
 		<data>
-		z2GO+GKhMlLVC5P3a2Djs5J1ny4=
+		IcfHkzJOsaoJJybEO48htjI5RrU=
 		</data>
 		<key>Headers/EaseChatToolbarItem.h</key>
 		<data>
@@ -434,6 +530,10 @@
 		<data>
 		CFufyjGr4lIvIYBhxf3ZJPlKjI0=
 		</data>
+		<key>Headers/EaseGoodsMessageCell.h</key>
+		<data>
+		U6G5HwNpUQ5Ypp1kFHzry0rJz8w=
+		</data>
 		<key>Headers/EaseImageView.h</key>
 		<data>
 		uYbBhLVqOq8Bv2BnROpQ51bLv7I=
@@ -448,7 +548,7 @@
 		</data>
 		<key>Headers/EaseMessageCell.h</key>
 		<data>
-		MjPm9HTc3wHJ91kSxRS3ElgbYMo=
+		zHQnQR1nPcIQBEVNqU7CRm+1HrA=
 		</data>
 		<key>Headers/EaseMessageModel.h</key>
 		<data>
@@ -484,7 +584,7 @@
 		</data>
 		<key>Headers/EaseUI-Prefix.pch</key>
 		<data>
-		sXy7eAMZUJCtlT5rRDDbcaQ0pq8=
+		fdWslvhFef6wnwHuskvZIrJuOT0=
 		</data>
 		<key>Headers/EaseUI.h</key>
 		<data>
@@ -520,7 +620,7 @@
 		</data>
 		<key>Headers/IModelChatCell.h</key>
 		<data>
-		njt8L3igZ20PeMBeZMZGzYbk10A=
+		8ho4HZSMw4axaWKYMnD+13irSno=
 		</data>
 		<key>Headers/IUserModel.h</key>
 		<data>
@@ -544,7 +644,7 @@
 		</data>
 		<key>Headers/UIImage+Category.h</key>
 		<data>
-		PapvnJ9uQPqIr7lCOaIf9pmpM6c=
+		sPvniHebkK5O3K7ey287EeEiabo=
 		</data>
 		<key>Headers/UIViewController+DismissKeyboard.h</key>
 		<data>
@@ -711,12 +811,25 @@
 		</data>
 		<key>README.md</key>
 		<data>
-		jiuuEBWxGslgDuOz1KXEUi0QBYA=
+		48DGL8LO1SBBJHjHRcW9iS6STEg=
 		</data>
 		<key>README.mdown</key>
 		<data>
 		BdguduAQGBt50V1DsL4OsugYIKI=
 		</data>
+		<key>Settings.bundle/Root.plist</key>
+		<data>
+		3YnxnFujJRfBEFB6u8AT6YROuKI=
+		</data>
+		<key>Settings.bundle/en.lproj/Root.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t4KY9Gh4uIiOv7VnHtRrKEuPRY8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>UIBarButtonItemArrowLeft.png</key>
 		<data>
 		ohXC8pS92JoKLsStfilbDQeVn24=
@@ -765,6 +878,24 @@
 		<data>
 		hdPu2sPyB+wm+Cmi8eZuC+PpMzk=
 		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oGEjFP65VkGZZw+LOkBlPXwqWz0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			50L/4fHwiE0do9F9HjPAk9yVjMo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -783,44 +914,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d9JGqASqwyn42OULDGMryNboIqQ=
+			h08m4F3CE8jA4QvnW9+SjlLM6r4=
 			</data>
 			<key>hash2</key>
 			<data>
-			/k6f2n9IlQa1hn90tsMq6EZIEpiI8nrNjax8yl/HdMs=
+			YLP1S5oJy8fti7TWDXhGUUVi2sv7yJai+kAZ2X/L7P4=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/VoiceSearchFeedback001@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UcI3SaO2GFYRbFW2coNAvd1+dT0=
+			</data>
+			<key>hash2</key>
+			<data>
+			SP2OQM7ldGqT5qdZtBa+xD3HrraIdfqSCCSIlElydRA=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback002@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tuP7HW6PAn1zs1q9UBmwpXhQdFs=
+			4JFyv+VAHfW7QREtglZ2MZjwluk=
 			</data>
 			<key>hash2</key>
 			<data>
-			04j6azSvrcTvKdJWCIE+j9tygzkTBV1Qo9WrpazxyaY=
+			qR1FLfxBJiOrkP9svhRG1F8rfzX33Pj8WTHxkUcCj4U=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/VoiceSearchFeedback002@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3fyE8Rcbo1y7QZsozBwmDPHh2Oc=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rs9cmPkLM/02c6VE6CVf6lcE+DZjADP6Mw846Qj0feY=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback003@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			XQpLlVAJza9cc4W/Jay0vDAeh1g=
+			WAxDPbbbMZuAPK67VDF7TC24Xu8=
 			</data>
 			<key>hash2</key>
 			<data>
-			UoKDTA7N8Gie6DT656K+JmBntYSP8Ica6U3I5bEDibo=
+			zm6KC8WboXw5z+n+Pi5d1QQ4/cCuWzt9vgAwd1wzCp4=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/VoiceSearchFeedback003@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			qwzGYCZcoi2DAzSkUdESw6MD+p8=
+			</data>
+			<key>hash2</key>
+			<data>
+			5OWPMhujD6mJsNEYBCIEE03rb2pDC55BI39XiZxicLc=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback004@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			tw3/kG2bmfuvlmfS5DNcnO5sDpE=
+			lUCKfjh7qtiEe1v5TDlKGOQxiMI=
 			</data>
 			<key>hash2</key>
 			<data>
-			b1hqxubmLihyIzEs/rWg2RgtXlrEUDCBazRvk7Z6PHg=
+			FEEx8z0GKmPTNgfU4l0n0i3PnkdtAbXT/XwmwnZRkgY=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/VoiceSearchFeedback004@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HcpK4NrgMxfzqCGDjqIHIWaFj90=
+			</data>
+			<key>hash2</key>
+			<data>
+			lzntusnFhJq8yQRuizQ0caYBYD9Mn54gZbPjKwrB4Ng=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback005@2x.png</key>
@@ -1047,11 +1222,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EV0auasynyKEpHW6MeEapj1dpJ4=
+			0UAN4CBM5ALJX6KsyU3K8RLIs8g=
 			</data>
 			<key>hash2</key>
 			<data>
-			kQ6KZsuJp8CV3diqMgpucTLTAp5pDi0hRR718Xn3mBc=
+			Fk9G7c/fofmxb6hAzLzC+fWKD+nOl0pFVxcJZmsryU8=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chatBar_colorMore_camera@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7BDTz7ypXg47XKrO1n7agOjkBnA=
+			</data>
+			<key>hash2</key>
+			<data>
+			i/G6HOECaaO+NJ31p0wPBzGKsxr3135bH5GCGha5cks=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chatBar_colorMore_cameraSelected@2x.png</key>
@@ -1091,11 +1277,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D87LKq6zCgjHW26PLhhQ18+Ewf4=
+			C9DB3TOhDaYMZATs9bcISF+lCIs=
 			</data>
 			<key>hash2</key>
 			<data>
-			OX0dkToqydzEH8ILa0aOt9UWybAVJnHPS8N4GDFGeIw=
+			/6bLeYYVmPgip95E9R7gN2xfWvPolihModW4MA4bjgI=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chatBar_colorMore_photo@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			75lMmhA5/KG3qfe9aX815d0ZRmY=
+			</data>
+			<key>hash2</key>
+			<data>
+			iD6bh1vl+/3zD1oLgPimgiOneXUJ67Ou2QwuUt4B+lk=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chatBar_colorMore_photoSelected@2x.png</key>
@@ -1157,11 +1354,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WvbCodUTpq7OgGNZw5w7ewbkKQU=
+			ATlsmTMdWD01D34235wpqeUyylw=
 			</data>
 			<key>hash2</key>
 			<data>
-			sNl3CEI+lBYOHcWXIrPCv0aRHeR1UVlBcjizHsFD7gk=
+			53mp2x3XJ0guuoVmWYqp+Fn14D9Kmm3z7+9/VNQoqCk=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chatBar_face@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8l3cTE7rRcneYWpRlG4t/52nuJk=
+			</data>
+			<key>hash2</key>
+			<data>
+			pv+ZFc3h5R5gP7pQ5RQ6Qnepih4VfEKTJpvJciIXbMw=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chatBar_faceSelected@2x.png</key>
@@ -1179,11 +1387,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qdsCOZ5KHGtkS8t7lfqu6zWFgAg=
+			fkpXChbiICbor9rFA1seHw+sYy8=
 			</data>
 			<key>hash2</key>
 			<data>
-			n1TZ3OtaMEh/LyAvvK2WQK1M068e1b7lDdPZbEUG5P4=
+			853FwadIlDsJFiTEzTl7S7YHslaa2vbh9pXM79IKxX0=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chatBar_keyboard@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mdDV1VqIVb3OnGjhguf3tT8NTYs=
+			</data>
+			<key>hash2</key>
+			<data>
+			jtlFEjNfO7TKZ6Gx2sHz0QdHbkT4pWBHBQ8MDHwSqbU=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chatBar_keyboardSelected@2x.png</key>
@@ -1201,11 +1420,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6ZQFexfs1eV4oeqgnBjfS8h+0LQ=
+			kQA1UJx2SY2wSSWcF8j9lkLiF4o=
 			</data>
 			<key>hash2</key>
 			<data>
-			k9UExty1EHR90gj6aJDB3kz81X6AatwaTHyPlBxD13Y=
+			UKz39djXkDfJHSdOrGOgdoK0f7uvTCBJp+FBHMaioAA=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chatBar_more@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D54xdvqGdKb2a/2dyq/h/gK6E1o=
+			</data>
+			<key>hash2</key>
+			<data>
+			DJ+zsWnoK/02U8erYZIyBeKh3eOONnCieSwAcIycW+s=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chatBar_moreSelected@2x.png</key>
@@ -1223,11 +1453,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			kDHYQ8GAJTkjZc7/MiEKDfJkGfA=
+			0gg4Mqat1MwSKrzIGGMO+I/RyOI=
 			</data>
 			<key>hash2</key>
 			<data>
-			e8snJmOaddckgAjjhvKh4grfNgISjBraE/89BvqbKic=
+			pXoDg7O90ozK9GOazokiT3+o9b9whA3rWHcu38iOuzs=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chatBar_record@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OGys37+GWQ8LOBuZpca1w6fkpjA=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ll9lQQOJuVRuP70Qa+Eja9ujpQJ0wpo9xHoCRTAE+hE=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chatBar_recordBg@2x.png</key>
@@ -1285,15 +1526,37 @@
 			gYXqWOLrpQD24bSZ5+j8+WBVvmNuJKU1rVJgbPHX3xk=
 			</data>
 		</dict>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing0001@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			SsUElHBR02hVqppAM0IK82So6bc=
+			</data>
+			<key>hash2</key>
+			<data>
+			30vFGZgDVBvD6Yuc1IB4kduh43d2JAiBpIqBfPAvB2k=
+			</data>
+		</dict>
 		<key>EaseUIResource.bundle/chat_receiver_audio_playing000@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x4bcz3EvAWJNXOg24TD72gAzUmk=
+			eXi6r167N6X38c7C+UVkdcYyyT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wb9D9q6GLpv8lCMR/Qh1S4KkyTCEJs+ZCK5+n5XSMYM=
+			GncoNN3/G1NhwNtS2upIYEPv0vB7r/b3NJ7LpipOFPY=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing000@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lhrz/k+rkaax8xmp4GV6SRWKsrw=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jf/H7CoYT20ovRrLACGg73txStqtxv3KNL2vq1Bshbs=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_receiver_audio_playing001@2x.png</key>
@@ -1307,114 +1570,235 @@
 			JYfyauB459QNAneyOWLP5M1m1WmZgc7maZDie6lAxvk=
 			</data>
 		</dict>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing001@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sPTzeHCn5UfTQdR46aaFENPvZ3w=
+			</data>
+			<key>hash2</key>
+			<data>
+			tsBTpo2qKv9K1gG2EHg1dA74SZBEKu5rS+oaFChPFZ4=
+			</data>
+		</dict>
 		<key>EaseUIResource.bundle/chat_receiver_audio_playing002@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6TuUGvtaIl/soYQrhkDf1+eZ8y4=
+			WMqyTSxnmvclSxHc53on3rDEUYA=
 			</data>
 			<key>hash2</key>
 			<data>
-			C/ybJOb2zSsFcPk57uuddJNqpbjrvaucHNUPiexuLbU=
+			bT/IuS3bqdjW80eohYOtCoD3WQA5N2XLaPgtIaAtuNk=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing002@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hS1EnwAl6QdjXdo+o72jDxevA0Y=
+			</data>
+			<key>hash2</key>
+			<data>
+			I6Rat9yxq35Dbu7YFSAFNZcoblp64aEzq3ntMTQJY48=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_receiver_audio_playing003@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			d4kmutYJ6V5VznAnvNQkQiuyCqM=
+			r+ROlu1jKcLJUuHf9fZRPvHc528=
 			</data>
 			<key>hash2</key>
 			<data>
-			PF+xDYftJKLFO38BGqOqAo7Jpv3ZtaCh1FXLHJGcNxU=
+			ANNsnZ84TKiDW7YdKGAIzOY/62Tdsuot4ZQhZNH8Has=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing003@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			abY2Y1F9cqMTUpmOqbFDnF2g9bw=
+			</data>
+			<key>hash2</key>
+			<data>
+			zb+Y7U5K7ptyti3TippZdLOUhgdD4fnpL9fD18Qup/o=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_receiver_audio_playing_full@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WrENGh9V0OtqKWyN7MJZvW6gOqM=
+			r+ROlu1jKcLJUuHf9fZRPvHc528=
 			</data>
 			<key>hash2</key>
 			<data>
-			i5jFmU/YHD4erAvoqS2lGWM7jKO+dyn3KRumc4ydEME=
+			ANNsnZ84TKiDW7YdKGAIzOY/62Tdsuot4ZQhZNH8Has=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_receiver_audio_playing_full@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			abY2Y1F9cqMTUpmOqbFDnF2g9bw=
+			</data>
+			<key>hash2</key>
+			<data>
+			zb+Y7U5K7ptyti3TippZdLOUhgdD4fnpL9fD18Qup/o=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_receiver_bg@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V2Wse0wRHb+97MU0tteuT22HkBI=
+			u6SXSnd05SdgvyOS8NJqD7ks2PU=
 			</data>
 			<key>hash2</key>
 			<data>
-			ijaEJS5Aetj34AL7/nQCFUlQqVUDxF96mtJMvbNdG3w=
+			fQY3TpQmOUA922EerpAkUD5kTVJmO7oGPfDrXJS7ra8=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_receiver_bg@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7wkpUJTHtKN1FyBpwFs6UJKEvgQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			YgVdsQz3vkTWERoyaUeoInhW8lIrH6SwfxPwUPquUHY=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_000@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			x4bcz3EvAWJNXOg24TD72gAzUmk=
+			eXi6r167N6X38c7C+UVkdcYyyT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			Wb9D9q6GLpv8lCMR/Qh1S4KkyTCEJs+ZCK5+n5XSMYM=
+			GncoNN3/G1NhwNtS2upIYEPv0vB7r/b3NJ7LpipOFPY=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_sender_audio_playing_000@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Lhrz/k+rkaax8xmp4GV6SRWKsrw=
+			</data>
+			<key>hash2</key>
+			<data>
+			Jf/H7CoYT20ovRrLACGg73txStqtxv3KNL2vq1Bshbs=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_001@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ST3iKcVRCuOOwFDU2J1L/7UpsxU=
+			Erbq/hAPOHdPwVmNMUrx6ZzRGEQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			IR6kziGw2twAHMpR44qZP7QJz4+K4gNyG14J1SzlKXw=
+			1R/bmmQDltt9TyG3ux4utgTWT8+wYs8cC/cc9a5AFWk=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_sender_audio_playing_001@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TxJBat8lowtM2ZQmGGI6jh5n2dQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			PimXrUmb8iuTqnZI86eQ/x+my1Z4wERj6r2MzMYINwQ=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_002@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			aLDAkwkeTXJOyj59zmzleDY9Iic=
+			7k57M3ytmAZnzZp8VQv6Mw+vMvU=
 			</data>
 			<key>hash2</key>
 			<data>
-			JW78OpwRZUhhXKyxSbHuKJXnPskDrdchjg5WE8oanKQ=
+			U83blaPTvtEChw9xi55yg4B1JmBMmgBPMCGe8T4IY60=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_sender_audio_playing_002@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4+8rz/z2APpsGpII8bEB5Mx03hw=
+			</data>
+			<key>hash2</key>
+			<data>
+			tVB8kW2OOH2eI2ycUturbLFy+RrofSWstufj0vLPHKA=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_003@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ojg3QO+jyHnen3AvSXm53wieroU=
+			URywPAQoIUtLKUVqW6GAJxyln5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			NrqDF0PzJIRF1OKaYhsjHxK4CUmenWWbTiFIhkKj8wY=
+			fkj5HCSJ8Hj4JKATtoJOA2/nGNnO6ciXuCL2LaBV8Ac=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_sender_audio_playing_003@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KsxG6GW5/9Nrg1stPrvaGRjcgmQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			pa8L59BC8yQgpznF2JiiPMprByrijZO6HV86bHQdgmc=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_full@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			87zEMee19VZmOdQxtzxtFsxyJRc=
+			URywPAQoIUtLKUVqW6GAJxyln5A=
 			</data>
 			<key>hash2</key>
 			<data>
-			9SZZA47Vq+7HLNa5OC8fgLgOaMvhUw5podZacGzkftc=
+			fkj5HCSJ8Hj4JKATtoJOA2/nGNnO6ciXuCL2LaBV8Ac=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_sender_audio_playing_full@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			KsxG6GW5/9Nrg1stPrvaGRjcgmQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			pa8L59BC8yQgpznF2JiiPMprByrijZO6HV86bHQdgmc=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_bg@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NrXL+FUh8DoZiRg+3lkH2IJfDJ4=
+			ebWFZNcxcKlx6L+dzEOfV7BslJs=
 			</data>
 			<key>hash2</key>
 			<data>
-			YpQa8qzTfFHh1t9HondAw9YiL9QvMKLnP/wWBvVsfQs=
+			CTt8R6GHMYcivsFdGoKn8eV397baqAgfHqsw9ooRq+8=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/chat_sender_bg@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/T2bsDpbIdaQQ21D1sB4SRLLzXo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ihm8CUGTclVvRgOmL/Wnp9aXmFY2gvpgcouW78hoLg8=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/en.lproj/Localizable.strings</key>
@@ -1696,6 +2080,17 @@
 			IG2Hq2IFRnU1qQj2BWV1lL5vYMkWHVMoSs4mrVJF3oU=
 			</data>
 		</dict>
+		<key>Headers/EaseBubbleView+Goods.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oYfS+Fe7L3EKKINTFhv+YPymL6A=
+			</data>
+			<key>hash2</key>
+			<data>
+			FwmPTxgnu7ARl+Pq7MDjiOUqDqdaw+MiKOq/09fMC+Y=
+			</data>
+		</dict>
 		<key>Headers/EaseBubbleView+Image.h</key>
 		<dict>
 			<key>hash</key>
@@ -1755,11 +2150,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GgcDZzoHOLynzHBWnHwgqBjaRaI=
+			61+WBCrwxAFGFozECs02ySRIet8=
 			</data>
 			<key>hash2</key>
 			<data>
-			SKVI9k9pxr2xu4bx6g2Wn/AEFdUeOygAkN23Vfz5YVA=
+			DQTw3a/Xw7VLjmAjftG6PiCWUhwW+PyFr1psC561FoU=
 			</data>
 		</dict>
 		<key>Headers/EaseChatBarMoreView.h</key>
@@ -1777,11 +2172,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			z2GO+GKhMlLVC5P3a2Djs5J1ny4=
+			IcfHkzJOsaoJJybEO48htjI5RrU=
 			</data>
 			<key>hash2</key>
 			<data>
-			IC/zAArWxvBR006/d/r3q4nHybaYJHu3s2p4iPCBoEQ=
+			h7tuxWuvPakJ8kj7EKxctQHmAXIAeObBXAxahkrBzyE=
 			</data>
 		</dict>
 		<key>Headers/EaseChatToolbarItem.h</key>
@@ -1927,6 +2322,17 @@
 			bx8MOEZLcxI7dPoZWZjwGAYVbfn2XpbWHaMflQPMShU=
 			</data>
 		</dict>
+		<key>Headers/EaseGoodsMessageCell.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			U6G5HwNpUQ5Ypp1kFHzry0rJz8w=
+			</data>
+			<key>hash2</key>
+			<data>
+			dfM6dL17+VlJazqLP7sVY2zsgedtRnY28lCf6V/tuL8=
+			</data>
+		</dict>
 		<key>Headers/EaseImageView.h</key>
 		<dict>
 			<key>hash</key>
@@ -1964,11 +2370,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MjPm9HTc3wHJ91kSxRS3ElgbYMo=
+			zHQnQR1nPcIQBEVNqU7CRm+1HrA=
 			</data>
 			<key>hash2</key>
 			<data>
-			eRBxyEwfNrmlTCOC/DAPMggWr5+b8LTKMviovyF868Y=
+			uEOPIaRxQI7D3Yvim38F7HnjYPJm0jNH3Fl8G/P5mgk=
 			</data>
 		</dict>
 		<key>Headers/EaseMessageModel.h</key>
@@ -2063,11 +2469,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sXy7eAMZUJCtlT5rRDDbcaQ0pq8=
+			fdWslvhFef6wnwHuskvZIrJuOT0=
 			</data>
 			<key>hash2</key>
 			<data>
-			uqmz1pBvyWgP8CIqB2dV15zxvyDOR6Hw0s6YmO1jago=
+			o/DQRD7y1XP7qfAWh11gUjGcGBCgIJCvz4iSeJx4j00=
 			</data>
 		</dict>
 		<key>Headers/EaseUI.h</key>
@@ -2162,11 +2568,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			njt8L3igZ20PeMBeZMZGzYbk10A=
+			8ho4HZSMw4axaWKYMnD+13irSno=
 			</data>
 			<key>hash2</key>
 			<data>
-			/hSKGI2e1knH4jNIYtM9JdRKRNyMOeiYeYa0/inawwU=
+			3/uxnTMs2Gcf731+gW1Ay1OvjQLyeD0pxk6FON50ZT0=
 			</data>
 		</dict>
 		<key>Headers/IUserModel.h</key>
@@ -2228,11 +2634,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PapvnJ9uQPqIr7lCOaIf9pmpM6c=
+			sPvniHebkK5O3K7ey287EeEiabo=
 			</data>
 			<key>hash2</key>
 			<data>
-			VU3agl3Jo7k53vthHSTIj2HuLRfhju7sNIfNhqwi9A8=
+			pCE6zLcf+GZQdz/I1Ui8/TTn4iZDXdp/B2vRX0Uw6WQ=
 			</data>
 		</dict>
 		<key>Headers/UIViewController+DismissKeyboard.h</key>
@@ -2641,11 +3047,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jiuuEBWxGslgDuOz1KXEUi0QBYA=
+			48DGL8LO1SBBJHjHRcW9iS6STEg=
 			</data>
 			<key>hash2</key>
 			<data>
-			5suoHuO8Yk6WRaxgCwmJ9c4vYHhhFYdbM8V8uqq5VnM=
+			o5ov2FLqO5GsitFgntz5S6pa6oYHuUesE9g317WO8ks=
 			</data>
 		</dict>
 		<key>README.mdown</key>
@@ -2658,6 +3064,30 @@
 			<data>
 			Pbd6uIUcROy15cgyN86yaWHStSm0fL8Fb+i2XAzhAwk=
 			</data>
+		</dict>
+		<key>Settings.bundle/Root.plist</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3YnxnFujJRfBEFB6u8AT6YROuKI=
+			</data>
+			<key>hash2</key>
+			<data>
+			dGhcoq7QgnzHtIJCnESZ08UBSd8Od5cLj182OycE6m4=
+			</data>
+		</dict>
+		<key>Settings.bundle/en.lproj/Root.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t4KY9Gh4uIiOv7VnHtRrKEuPRY8=
+			</data>
+			<key>hash2</key>
+			<data>
+			xUzNd7J7w99oAnMIWGe1dAGArHMuEXwQqxSziDU5vLk=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>UIBarButtonItemArrowLeft.png</key>
 		<dict>
@@ -2790,6 +3220,32 @@
 			<data>
 			jyRcF9DMhHcA8Nm2WEoDlpX/H3kGfzD5FDW01sQ5hj8=
 			</data>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oGEjFP65VkGZZw+LOkBlPXwqWz0=
+			</data>
+			<key>hash2</key>
+			<data>
+			tv6OHnU/NVeCLJynp/kWUqNBDmXdWPlIiCVw7MjUMOI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			50L/4fHwiE0do9F9HjPAk9yVjMo=
+			</data>
+			<key>hash2</key>
+			<data>
+			49OeRlluf9ytgsUXkr+TzKtm69paeP5ZYk2kZlYVaZU=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 	</dict>
 	<key>rules</key>

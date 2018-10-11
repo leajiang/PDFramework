@@ -58,6 +58,16 @@
  */
 - (void)updateCustomBubbleViewMargin:(UIEdgeInsets)bubbleMargin model:(id)mode;
 
+
+//判断自定义商品
+- (BOOL)isGoodsBubbleView:(id)model;
+
+- (void)setGoodsModel:(id)model;
+
+- (void)setGoodsBubbleView:(id)model;
+
+- (void)updateGoodsBubbleViewMargin:(UIEdgeInsets)bubbleMargin model:(id)model;
+
 @optional
 
 /*!

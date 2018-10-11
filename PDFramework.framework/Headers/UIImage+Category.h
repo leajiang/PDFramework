@@ -9,6 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface UIImage (Category)
-
 +(UIImage *)imageNamed:(NSString *)string;
 @end

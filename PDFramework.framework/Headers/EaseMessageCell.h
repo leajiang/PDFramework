@@ -24,7 +24,7 @@
 /** @brief 位置消息cell的高度 */
 #define kEMMessageLocationHeight 95
 /** @brief 语音消息cell的高度 */
-#define kEMMessageVoiceHeight 23
+#define kEMMessageVoiceHeight 30
 
 extern CGFloat const EaseMessageCellPadding;
 
@@ -35,6 +35,7 @@ typedef enum{
     EaseMessageCellEventAudioBubbleTap,     /** @brief 语音消息cell点击 */
     EaseMessageCellEventFileBubbleTap,      /** @brief 文件消息cell点击 */
     EaseMessageCellEventCustomBubbleTap,    /** @brief 自定义gif图片消息cell点击 */
+    EaseMessageCellEventGoodsBubbleTap,     /** @brief 商品消息cell点击 */
 }EaseMessageCellTapEventType;
 
 @protocol EaseMessageCellDelegate;
@@ -101,11 +102,18 @@ typedef enum{
  *  消息显示字体
  */
 @property (nonatomic) UIFont *messageTextFont UI_APPEARANCE_SELECTOR; //default [UIFont systemFontOfSize:15];
-
 /*
  *  消息显示颜色
  */
 @property (nonatomic) UIColor *messageTextColor UI_APPEARANCE_SELECTOR; //default [UIColor blackColor];
+/*
+ *  发送者消息显示颜色
+ */
+@property (nonatomic) UIColor *sendMessageTextColor UI_APPEARANCE_SELECTOR; //default [UIColor blackColor];
+/*
+ *  接受者消息显示颜色
+ */
+@property (nonatomic) UIColor *recvMessageTextColor UI_APPEARANCE_SELECTOR; //default [UIColor blackColor];
 
 /*
  *  位置消息显示字体
