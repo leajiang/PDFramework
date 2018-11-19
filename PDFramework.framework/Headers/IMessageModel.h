@@ -33,7 +33,7 @@
 /** @brief 消息发送状态 */
 @property (nonatomic, readonly) EMMessageStatus messageStatus;
 /** @brief 消息体类型 */
-@property (nonatomic, readonly) EMMessageBodyType bodyType;
+@property (nonatomic) EMMessageBodyType bodyType;
 /** @brief 消息是否已读 */
 @property (nonatomic) BOOL isMessageRead;
 /** @brief 当前登录用户是否为消息的发送方 */
@@ -70,6 +70,11 @@
 @property (nonatomic) BOOL isMediaPlayed;
 /** @brief 语音消息(或视频消息)时长 */
 @property (nonatomic) CGFloat mediaDuration;
+/** @brief 语音消息转文字是否已完成 */
+@property (nonatomic) BOOL isMediaSpeech;
+/** @brief 语音消息转文字 */
+@property (nonatomic) NSString *mediaSpeechText;
+
 /** @brief 附件显示的图标图片名 */
 @property (strong, nonatomic) NSString *fileIconName;
 /** @brief 文件消息的附件显示名 */

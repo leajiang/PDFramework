@@ -10,19 +10,29 @@
  * from Hyphenate Inc.
  */
 
-
 #import <UIKit/UIKit.h>
 
 #import "IConversationModel.h"
 #import "IModelCell.h"
 #import "EaseImageView.h"
+#import "TagView.h"
+
+#import "BaseChatlistView.h"
+
+@protocol EaseConversationCellDelegate <NSObject>
+
+-(void)accessListToUserListCallBack:(NSDictionary *)userInfo model:(id<IConversationModel>)model;
+
+@end
 
 /** @brief cell的最小高度 */
-static CGFloat EaseConversationCellMinHeight = 60;
+static CGFloat EaseConversationCellMinHeight = 72.0f;
 
 /** @brief 会话列表自定义UITableViewCell */
 
 @interface EaseConversationCell : UITableViewCell<IModelCell>
+
+@property(weak,nonatomic)id<EaseConversationCellDelegate> delegate;
 
 /** @brief 头像(用户、群组、聊天室) */
 @property (strong, nonatomic) EaseImageView *avatarView;
@@ -59,5 +69,32 @@ static CGFloat EaseConversationCellMinHeight = 60;
 
 /** @brief 时间文字颜色 */
 @property (nonatomic) UIColor *timeLabelColor UI_APPEARANCE_SELECTOR;
+
+
+
+/**
+ 转接标签
+ */
+@property(strong,nonatomic) UIButton *transferLab;
+
+/**
+ 标签
+ */
+@property (strong, nonatomic) TagView *tagView;
+
+/**
+ 用户信息
+ */
+@property(strong,nonatomic)NSDictionary *userInfo;
+
+/**
+ 类型
+ */
+@property(assign,nonatomic)Conversation conversationType;
+
+/**
+ 聊天激活
+ */
+@property(strong,nonatomic)UIButton *chatButton;
 
 @end

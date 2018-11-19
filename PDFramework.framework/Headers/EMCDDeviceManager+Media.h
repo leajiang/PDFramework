@@ -11,12 +11,18 @@
  */
 
 #import "EMCDDeviceManagerBase.h"
+typedef NS_ENUM(NSInteger, EMAudioSession){
+    EM_DEFAULT = 0,
+    EM_AUDIOPLAYER,
+    EM_AUDIORECORDER,
+    EM_AUDIOREPLAYANDRECORD
+};
 
 @interface EMCDDeviceManager (Media)
 
 #pragma mark - AudioPlayer
 // Play the audio
-- (void)asyncPlayingWithPath:(NSString *)aFilePath
+- (void)asyncPlayingWithPath:(NSString *)aFilePath audioRecordPlay:(BOOL)audioRecordPlay
                   completion:(void(^)(NSError *error))completon;
 // Stop playing
 - (void)stopPlaying;

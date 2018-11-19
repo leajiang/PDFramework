@@ -10,35 +10,35 @@
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback001@2x.png</key>
 		<data>
-		h08m4F3CE8jA4QvnW9+SjlLM6r4=
+		fAwRXJu4nIiQK8njxn9z6F/avPM=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback001@3x.png</key>
 		<data>
-		UcI3SaO2GFYRbFW2coNAvd1+dT0=
+		gXELdw6B9RE5HZg8x3rALycai1o=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback002@2x.png</key>
 		<data>
-		4JFyv+VAHfW7QREtglZ2MZjwluk=
+		7oDmKGdiC2nuT9fjEowCFaAM9Ls=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback002@3x.png</key>
 		<data>
-		3fyE8Rcbo1y7QZsozBwmDPHh2Oc=
+		SDLD8hUniflab8ZRUF8U8495hzs=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback003@2x.png</key>
 		<data>
-		WAxDPbbbMZuAPK67VDF7TC24Xu8=
+		sWZSGJQA/PQMwoBfx5fu7RRqeMQ=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback003@3x.png</key>
 		<data>
-		qwzGYCZcoi2DAzSkUdESw6MD+p8=
+		W4oEvNA92zEotRmUR+a29cQ/8HQ=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback004@2x.png</key>
 		<data>
-		lUCKfjh7qtiEe1v5TDlKGOQxiMI=
+		1w6H58HBm3oT1I9x/jHdgx1TrQ8=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback004@3x.png</key>
 		<data>
-		HcpK4NrgMxfzqCGDjqIHIWaFj90=
+		gn/vNIEXLRr7XyhQx/0bAW5dgAg=
 		</data>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback005@2x.png</key>
 		<data>
@@ -103,6 +103,14 @@
 		<key>EaseUIResource.bundle/VoiceSearchFeedback020@2x.png</key>
 		<data>
 		mwmN7akOr16cG5ucDzaNuM+dQYU=
+		</data>
+		<key>EaseUIResource.bundle/VoiceSearchSendCancel@2x.png</key>
+		<data>
+		ypgvrWfCPSt5vZhExOq4d8KCtOw=
+		</data>
+		<key>EaseUIResource.bundle/VoiceSearchSendCancel@3x.png</key>
+		<data>
+		MfoDv/umURtp+7xPhWSh8QtSGAs=
 		</data>
 		<key>EaseUIResource.bundle/arrow@2x.png</key>
 		<data>
@@ -294,43 +302,43 @@
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_001@2x.png</key>
 		<data>
-		Erbq/hAPOHdPwVmNMUrx6ZzRGEQ=
+		k2EsAOo5jyP5A7OFTPOKCJk2ahs=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_001@3x.png</key>
 		<data>
-		TxJBat8lowtM2ZQmGGI6jh5n2dQ=
+		pdC187FhacgWKkXQlT0IrxpkG90=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_002@2x.png</key>
 		<data>
-		7k57M3ytmAZnzZp8VQv6Mw+vMvU=
+		SejccbQ5Sc/6oQY0r28XiJJymGk=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_002@3x.png</key>
 		<data>
-		4+8rz/z2APpsGpII8bEB5Mx03hw=
+		MwymHsPxRwjKB+k9B+PQ0rIGjQU=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_003@2x.png</key>
 		<data>
-		URywPAQoIUtLKUVqW6GAJxyln5A=
+		JuM20/wE0tnAoa0kkEpmMuKTd4M=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_003@3x.png</key>
 		<data>
-		KsxG6GW5/9Nrg1stPrvaGRjcgmQ=
+		/c2Nb+zxySEzBxJba2GsApPlf/o=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_full@2x.png</key>
 		<data>
-		URywPAQoIUtLKUVqW6GAJxyln5A=
+		JuM20/wE0tnAoa0kkEpmMuKTd4M=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_full@3x.png</key>
 		<data>
-		KsxG6GW5/9Nrg1stPrvaGRjcgmQ=
+		/c2Nb+zxySEzBxJba2GsApPlf/o=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_bg@2x.png</key>
 		<data>
-		ebWFZNcxcKlx6L+dzEOfV7BslJs=
+		u8tAqXyekX+gikg2+AkxT9RHloE=
 		</data>
 		<key>EaseUIResource.bundle/chat_sender_bg@3x.png</key>
 		<data>
-		/T2bsDpbIdaQQ21D1sB4SRLLzXo=
+		T9UUgJ7aFR8VLmbW1UO81ZOBmuQ=
 		</data>
 		<key>EaseUIResource.bundle/en.lproj/Localizable.strings</key>
 		<dict>
@@ -349,9 +357,113 @@
 		<data>
 		BeKpu1kI7AXj5BXWWWK/ovOpe6w=
 		</data>
+		<key>EaseUIResource.bundle/icon_chat_active@2x.png</key>
+		<data>
+		pVRk1CHb0OyikfnPi/9Xoq1Ge/I=
+		</data>
+		<key>EaseUIResource.bundle/icon_chat_active@3x.png</key>
+		<data>
+		0oLbK80mZwJKnOye+Wf5veiyAGk=
+		</data>
+		<key>EaseUIResource.bundle/icon_check@2x.png</key>
+		<data>
+		48O0tCI4NiriWyLWvHr2vU6wF5k=
+		</data>
+		<key>EaseUIResource.bundle/icon_check@3x.png</key>
+		<data>
+		6Au9FFzUDBzL+70CeHS2C7PBRsk=
+		</data>
+		<key>EaseUIResource.bundle/icon_department@2x.png</key>
+		<data>
+		lygK8EbUgFZ7IvMobrapKRXcDiU=
+		</data>
+		<key>EaseUIResource.bundle/icon_department@3x.png</key>
+		<data>
+		+j3asebShrfuUMqE2Xjos+oNQrw=
+		</data>
+		<key>EaseUIResource.bundle/icon_message_active@2x.png</key>
+		<data>
+		PNr2qgL/UWFDysdACmgN59ldkVU=
+		</data>
+		<key>EaseUIResource.bundle/icon_message_active@3x.png</key>
+		<data>
+		hxDGSq354O6ad9T3atw+AL2lsWw=
+		</data>
+		<key>EaseUIResource.bundle/icon_more@2x.png</key>
+		<data>
+		D8tWLNDoM3MkW1cMnG2vam2VDFQ=
+		</data>
+		<key>EaseUIResource.bundle/icon_more@3x.png</key>
+		<data>
+		HGjvjj7cInOlp2BvAkCCFVt+Nho=
+		</data>
+		<key>EaseUIResource.bundle/icon_organization@2x.png</key>
+		<data>
+		LnXvgytpQe9DKOuzK7QBTkOTSPc=
+		</data>
+		<key>EaseUIResource.bundle/icon_organization@3x.png</key>
+		<data>
+		EjljgUvXsc5wOEbh7F+ssXqZ460=
+		</data>
+		<key>EaseUIResource.bundle/icon_pulldown_normal@2x.png</key>
+		<data>
+		UxBqRYLZsTwitPEe7JyfZq3IOmM=
+		</data>
+		<key>EaseUIResource.bundle/icon_pulldown_normal@3x.png</key>
+		<data>
+		jWjN9AuWoYh4sNWAS+kwY2r8GwA=
+		</data>
+		<key>EaseUIResource.bundle/icon_search_tltle@2x.png</key>
+		<data>
+		xAvlmcB5pzt2KzaToqK6E5Iy3oc=
+		</data>
+		<key>EaseUIResource.bundle/icon_search_tltle@3x.png</key>
+		<data>
+		Y9q49pC6AQlkUahA6EVYdr92hOQ=
+		</data>
+		<key>EaseUIResource.bundle/icon_ueser_downline@2x.png</key>
+		<data>
+		zc+wtZtuCkgh4hmmDvbvHDLn4+I=
+		</data>
+		<key>EaseUIResource.bundle/icon_ueser_downline@3x.png</key>
+		<data>
+		p5TRPCyh+nME6TI73+u3iGeb11c=
+		</data>
+		<key>EaseUIResource.bundle/icon_ueser_head@2x.png</key>
+		<data>
+		OJMkz0VFAc0AlYviqw1oy/hXxDo=
+		</data>
+		<key>EaseUIResource.bundle/icon_ueser_head@3x.png</key>
+		<data>
+		XkNXTg21mBVq5tiY6Xc0Dwqu9pA=
+		</data>
+		<key>EaseUIResource.bundle/icon_ueser_online@2x.png</key>
+		<data>
+		i1AMopWeJSOoVbqZb+XronLhnHQ=
+		</data>
+		<key>EaseUIResource.bundle/icon_ueser_online@3x.png</key>
+		<data>
+		F8gRvae498/Ax92d2d/hT+9REC4=
+		</data>
 		<key>EaseUIResource.bundle/imageDownloadFail@2x.png</key>
 		<data>
 		rg3O5zlZJqmQdeXBrdQLfHruO4s=
+		</data>
+		<key>EaseUIResource.bundle/img_color_orange@2x.png</key>
+		<data>
+		XJ5ZdgY6Z98DQhxO7E8hZmI5aF0=
+		</data>
+		<key>EaseUIResource.bundle/img_color_orange@3x.png</key>
+		<data>
+		bHaIe/Lv4/aBWo9qgq+eDqouc6E=
+		</data>
+		<key>EaseUIResource.bundle/img_f7_color@2x.png</key>
+		<data>
+		wLKuE/xLHMc2Fmn7M0Vpp9Z5aJk=
+		</data>
+		<key>EaseUIResource.bundle/img_f7_color@3x.png</key>
+		<data>
+		sshG9dLvQHju7DEX9nKxLoHyTeE=
 		</data>
 		<key>EaseUIResource.bundle/in.caf</key>
 		<data>
@@ -359,7 +471,11 @@
 		</data>
 		<key>EaseUIResource.bundle/messageSendFail@2x.png</key>
 		<data>
-		1YRs0xjYW5eU6h1lWdsC5A+G8Hc=
+		cZfsBLskDaV31czbEunToz9boBQ=
+		</data>
+		<key>EaseUIResource.bundle/messageSendFail@3x.png</key>
+		<data>
+		7iNYx51O4qM3yp8FUOMfsDy6NP0=
 		</data>
 		<key>EaseUIResource.bundle/messageToolbarBg@2x.png</key>
 		<data>
@@ -373,6 +489,22 @@
 		<data>
 		7NYxqnYKan5+oQwZsUugvgc+0C4=
 		</data>
+		<key>EaseUIResource.bundle/userTag_button_normal@2x.png</key>
+		<data>
+		1/oXYa9DCtlikz+rhlDs30AK8g0=
+		</data>
+		<key>EaseUIResource.bundle/userTag_button_normal@3x.png</key>
+		<data>
+		sJ79vtxP2yu8lWKQvZEKZPOm60M=
+		</data>
+		<key>EaseUIResource.bundle/userTag_button_selected@2x.png</key>
+		<data>
+		reiXT2pUCfuxubL6vvI7wWbsJFM=
+		</data>
+		<key>EaseUIResource.bundle/userTag_button_selected@3x.png</key>
+		<data>
+		8wWJiU/ziHmSgIC1RDrTsvJAPkw=
+		</data>
 		<key>EaseUIResource.bundle/zh-Hans.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -382,6 +514,34 @@
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Headers/AddressbookDetailViewController.h</key>
+		<data>
+		ru+fJg5X8dZnG7EgHRdQiUwS0ys=
+		</data>
+		<key>Headers/AddressbookViewController.h</key>
+		<data>
+		30Gq8IQY43Ic6X/kSq4gJpuIXNA=
+		</data>
+		<key>Headers/AlertViewOperate.h</key>
+		<data>
+		gP5Mpwu8qKkRIJM05vslGmaHYIg=
+		</data>
+		<key>Headers/BaseAlphaView.h</key>
+		<data>
+		mkZo8bjpB79IkcgL279vbnPxZ10=
+		</data>
+		<key>Headers/BaseChatlistView.h</key>
+		<data>
+		NFoUzxL+xH4KOQB72naPlj+KdbU=
+		</data>
+		<key>Headers/BaseService.h</key>
+		<data>
+		OZEULAFDN0DxfFjlFrVpbOx8dGc=
+		</data>
+		<key>Headers/ClientChatlistView.h</key>
+		<data>
+		imPc/+6RwNOzFACSlX+jZG26j3o=
+		</data>
 		<key>Headers/DemoErrorCode.h</key>
 		<data>
 		w5/Kxutw2T8fMCrJOYaW1m1yjiM=
@@ -396,7 +556,7 @@
 		</data>
 		<key>Headers/EMCDDeviceManager+Media.h</key>
 		<data>
-		ohFs+VwtsACIbIiH7IImop6W7Ro=
+		hEvOICtp7aN/Pw4wzlLobzruF6k=
 		</data>
 		<key>Headers/EMCDDeviceManager+Microphone.h</key>
 		<data>
@@ -432,7 +592,7 @@
 		</data>
 		<key>Headers/EaseBaseMessageCell.h</key>
 		<data>
-		ul9H36DLX0Z9ZHoNDS2N22FovXg=
+		P1W0TZMljuWmv7vZf0dNoZsI5b8=
 		</data>
 		<key>Headers/EaseBubbleView+File.h</key>
 		<data>
@@ -468,7 +628,7 @@
 		</data>
 		<key>Headers/EaseBubbleView.h</key>
 		<data>
-		61+WBCrwxAFGFozECs02ySRIet8=
+		kYxa3ooRALKQK6snmbDnK5+l3yg=
 		</data>
 		<key>Headers/EaseChatBarMoreView.h</key>
 		<data>
@@ -476,7 +636,7 @@
 		</data>
 		<key>Headers/EaseChatToolbar.h</key>
 		<data>
-		IcfHkzJOsaoJJybEO48htjI5RrU=
+		z2GO+GKhMlLVC5P3a2Djs5J1ny4=
 		</data>
 		<key>Headers/EaseChatToolbarItem.h</key>
 		<data>
@@ -486,9 +646,17 @@
 		<data>
 		ESKdpsXUqPpQI+leF6In8el+zq4=
 		</data>
+		<key>Headers/EaseChooiseView.h</key>
+		<data>
+		QkRDG2pG/JfF2HP6Lf1knLtaDxk=
+		</data>
+		<key>Headers/EaseConsultListViewController.h</key>
+		<data>
+		1WjxxkQkEsxNntz4RgCmadBZiak=
+		</data>
 		<key>Headers/EaseConversationCell.h</key>
 		<data>
-		A5AL+OEUBIGX68DdIuB9GsILCcA=
+		77CZcspTC9SiE2Uo1EDjv3h7h8I=
 		</data>
 		<key>Headers/EaseConversationListViewController.h</key>
 		<data>
@@ -540,7 +708,7 @@
 		</data>
 		<key>Headers/EaseLocalDefine.h</key>
 		<data>
-		zQyDMxI5y7tZ983OHK+IE8O9BjM=
+		LoG3TRPI+vJyGSAhJpyeEhCuo50=
 		</data>
 		<key>Headers/EaseLocationViewController.h</key>
 		<data>
@@ -552,11 +720,15 @@
 		</data>
 		<key>Headers/EaseMessageModel.h</key>
 		<data>
-		mev0Rk30v4Yc+bZ0vZpwHJBoyCQ=
+		n8iNySKADVE/qMl5BqSaBEO3yVs=
 		</data>
 		<key>Headers/EaseMessageReadManager.h</key>
 		<data>
 		jgFCXSrSQa4WOaSDLflwLTDLhUg=
+		</data>
+		<key>Headers/EaseMessageRemindCell.h</key>
+		<data>
+		t8ufLVCH44Q2xzqgGwtIgGjkiuo=
 		</data>
 		<key>Headers/EaseMessageTimeCell.h</key>
 		<data>
@@ -564,7 +736,7 @@
 		</data>
 		<key>Headers/EaseMessageViewController.h</key>
 		<data>
-		edffh+kmCxKhXm+1PTGMxsyfkLc=
+		eWkJ7ysr+X1N+sQVaW/taphWtHI=
 		</data>
 		<key>Headers/EaseRecordView.h</key>
 		<data>
@@ -584,7 +756,7 @@
 		</data>
 		<key>Headers/EaseUI-Prefix.pch</key>
 		<data>
-		fdWslvhFef6wnwHuskvZIrJuOT0=
+		GfqOe+bBUSzGxiOFPCxMCTgag9c=
 		</data>
 		<key>Headers/EaseUI.h</key>
 		<data>
@@ -606,13 +778,21 @@
 		<data>
 		Nvrw43Crz7O7WjNLVRhogjx0B5Q=
 		</data>
+		<key>Headers/FunctionPopView.h</key>
+		<data>
+		shDZOyo1wrMgCQKmKiwhaxPUS48=
+		</data>
+		<key>Headers/IATConfig.h</key>
+		<data>
+		LEn83NAja6L6uZwWqKRKMY8rgZw=
+		</data>
 		<key>Headers/IConversationModel.h</key>
 		<data>
 		OkwUCph6vPmCtW1Vs6wvEjN1NiQ=
 		</data>
 		<key>Headers/IMessageModel.h</key>
 		<data>
-		7KUhdXm8ixg1lp3m97bAzOkS4sw=
+		s9pvLYxtY6lBN9zo386ddtOFS0k=
 		</data>
 		<key>Headers/IModelCell.h</key>
 		<data>
@@ -626,6 +806,14 @@
 		<data>
 		0VA6SeWiDRKuoaLTrmpMrK+Hi/s=
 		</data>
+		<key>Headers/JoinChatlistView.h</key>
+		<data>
+		7egXkzvYrsZYaXprsK3iDsC3rnk=
+		</data>
+		<key>Headers/MateChatlistView.h</key>
+		<data>
+		CchMjpXaZdPAdGf8X79pXzCwjwg=
+		</data>
 		<key>Headers/NSDate+Category.h</key>
 		<data>
 		xuQ98v7bNjhltCT6PFHo0bP5bLA=
@@ -636,11 +824,47 @@
 		</data>
 		<key>Headers/NSString+Valid.h</key>
 		<data>
-		rOaH1b/Rndwzqt0k9Mtg1ExVs64=
+		5+Tj2e5XptZ1r9UqdvieLPwr33M=
+		</data>
+		<key>Headers/PDChatViewController.h</key>
+		<data>
+		BdNPiWdd4ouGJA8xtJAKaXJDAXc=
 		</data>
 		<key>Headers/PDFramework.h</key>
 		<data>
-		ftRl1tzhX9okPsBJnCIpM/MnH1A=
+		IQWcka/Ll9K528twugVhvQgmjIk=
+		</data>
+		<key>Headers/PDSearchViewController.h</key>
+		<data>
+		UJZ6oI0XW8X7EOADTsEqfIQE2vY=
+		</data>
+		<key>Headers/PDServiceGroupTableViewCell.h</key>
+		<data>
+		9pLEiTgB10BmhlnzKanD7yiOMq8=
+		</data>
+		<key>Headers/ServiceGroupListView.h</key>
+		<data>
+		6luorTtkoId2AbAWgf2+i5iNBjU=
+		</data>
+		<key>Headers/ServiceListView.h</key>
+		<data>
+		OccHyrzf3N4OXvDQSNN8f2Sd7jU=
+		</data>
+		<key>Headers/ServiceUserDetailViewController.h</key>
+		<data>
+		3Aydi7CtNrM9ODZ7fEq/Xn7jYYU=
+		</data>
+		<key>Headers/SignViewController.h</key>
+		<data>
+		TvJiOUqXP/0hqtUHikBEMD3BTuk=
+		</data>
+		<key>Headers/TagView.h</key>
+		<data>
+		1V/22AsC0lCwB+h4+oPE+gIqsqs=
+		</data>
+		<key>Headers/TransferSessionViewController.h</key>
+		<data>
+		NTXLGf7mKIB9ockIOnP6b6puA7w=
 		</data>
 		<key>Headers/UIImage+Category.h</key>
 		<data>
@@ -653,6 +877,26 @@
 		<key>Headers/UIViewController+HUD.h</key>
 		<data>
 		a9fyR+8g2yIqaMk3RpB5eeQ31Aw=
+		</data>
+		<key>Headers/UIViewController+Helper.h</key>
+		<data>
+		CVEyYi2aV9JShiarmKU1KHUOnTY=
+		</data>
+		<key>Headers/UIViewExt.h</key>
+		<data>
+		Ym7ca8qFkvHJemRhisKbokXuJBQ=
+		</data>
+		<key>Headers/UserDetailsViewController.h</key>
+		<data>
+		yYJbQwElUd8sOOH9hDc2ric0r3I=
+		</data>
+		<key>Headers/YKMultiLevelTableView.h</key>
+		<data>
+		oq3jkk00cKu4N/4T3e7TdoeffZs=
+		</data>
+		<key>Headers/YKNodeModel.h</key>
+		<data>
+		QoODppAo4AQHJabGOgQFdgBIjtA=
 		</data>
 		<key>Headers/amrFileCodec.h</key>
 		<data>
@@ -678,144 +922,21 @@
 		<data>
 		Nwexjl8abzA7jU03vDohOEpohYQ=
 		</data>
-		<key>ImageError.png</key>
-		<data>
-		riHb5tue+61CJyiJKO6Vm7s+mmc=
-		</data>
-		<key>ImageError@2x.png</key>
-		<data>
-		xdcY/8YDRl5WJ0aUnuaB1n2cti4=
-		</data>
-		<key>ImageError@3x.png</key>
-		<data>
-		CU/vmqMx3X7XzrMBd5seI6cz3vo=
-		</data>
-		<key>ImageSelectedOff.png</key>
-		<data>
-		/6hDx684qxmpz/unuDy6UAkchTg=
-		</data>
-		<key>ImageSelectedOff@2x.png</key>
-		<data>
-		ZUyg1RTtt3/4mv5NHuQuIVevSWs=
-		</data>
-		<key>ImageSelectedOff@3x.png</key>
-		<data>
-		Wbn6Gs9EXEddS86JOB1SJlATcs4=
-		</data>
-		<key>ImageSelectedOn.png</key>
-		<data>
-		E3/vw34A5d5c6C11W3yTlgNIc8k=
-		</data>
-		<key>ImageSelectedOn@2x.png</key>
-		<data>
-		1x09FiDDlyT6jhTOL8cBGQdNKzU=
-		</data>
-		<key>ImageSelectedOn@3x.png</key>
-		<data>
-		0aNCYxNjq8H78WeXUnaRnQEWsO8=
-		</data>
-		<key>ImageSelectedSmallOff.png</key>
-		<data>
-		fbUHFeZGOwLVlNTyqdcDXXsWyzA=
-		</data>
-		<key>ImageSelectedSmallOff@2x.png</key>
-		<data>
-		Mjoe+nhQMMW9eebrp7TM2fmclOk=
-		</data>
-		<key>ImageSelectedSmallOff@3x.png</key>
-		<data>
-		epInFJal6+rb5I1EQFS0j2+oLJc=
-		</data>
-		<key>ImageSelectedSmallOn.png</key>
-		<data>
-		ZwDkB0AtEGOc9mVvXWsikNLIPc4=
-		</data>
-		<key>ImageSelectedSmallOn@2x.png</key>
-		<data>
-		dYdXIWdj8ciaNEKDgXD7YTXmJH4=
-		</data>
-		<key>ImageSelectedSmallOn@3x.png</key>
-		<data>
-		IN4n/Fr3fjOX+2qXFL7LJntERsg=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		LSnDFHG+2DgMtVYB7f5aFr6BYIM=
 		</data>
-		<key>LICENSE</key>
-		<data>
-		M2OCjvTm0r0UZzGhbaOBN8WjqnU=
-		</data>
-		<key>LICENSE.md</key>
-		<data>
-		o7bPJVe5ifRC3sOPV4i6RSfBoik=
-		</data>
-		<key>MJRefresh.bundle/arrow@2x.png</key>
-		<data>
-		5ZENFuDcEgHjDuL7tn7h97HeuSE=
-		</data>
-		<key>MJRefresh.bundle/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KQHJxiCxikpJx3GEz3x/uldyTBk=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>MJRefresh.bundle/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DD5bNeaUTksFP2PkSNtokoJkKjU=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>MJRefresh.bundle/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hjIzn4qLs8xLMnelxOeMouDSaZY=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Jo2nLljKncpLPqAE0hJN6B1obkY=
 		</data>
-		<key>PlayButtonOverlayLarge.png</key>
+		<key>PDSearchViewController.nib</key>
 		<data>
-		kWzb4LPFcHSJzxuE4ojpGSTONGg=
+		fdQDYRJLv51ZKjhZAYRmsFr2IGg=
 		</data>
-		<key>PlayButtonOverlayLarge@2x.png</key>
+		<key>ServiceUserDetailViewController.nib</key>
 		<data>
-		Krxm/DWuajrAxfi4xqWpG5BoO0E=
-		</data>
-		<key>PlayButtonOverlayLarge@3x.png</key>
-		<data>
-		4HKUyL+PdLrrmcp+fODS1CW0Omo=
-		</data>
-		<key>PlayButtonOverlayLargeTap.png</key>
-		<data>
-		kwGm/FUElQxAkP9za0yMFIXxIkg=
-		</data>
-		<key>PlayButtonOverlayLargeTap@2x.png</key>
-		<data>
-		0SYa/d2InBVPsI9GhHtLiYb7zbE=
-		</data>
-		<key>PlayButtonOverlayLargeTap@3x.png</key>
-		<data>
-		bxzTg/VSpedc+d6uesb8uMyi7wk=
-		</data>
-		<key>README.md</key>
-		<data>
-		48DGL8LO1SBBJHjHRcW9iS6STEg=
-		</data>
-		<key>README.mdown</key>
-		<data>
-		BdguduAQGBt50V1DsL4OsugYIKI=
+		1mpd41htSItMk8iRum8doytL9Ao=
 		</data>
 		<key>Settings.bundle/Root.plist</key>
 		<data>
@@ -830,59 +951,47 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>UIBarButtonItemArrowLeft.png</key>
+		<key>SignViewController.nib</key>
 		<data>
-		ohXC8pS92JoKLsStfilbDQeVn24=
+		UpbPVhKXJUDlZFRWRVTicFwrd54=
 		</data>
-		<key>UIBarButtonItemArrowLeft@2x.png</key>
+		<key>YK_minus@2x.png</key>
 		<data>
-		Wem46cpjowsL9B24dxEdUVDXIJQ=
+		YDtQXMtMUtI8MtPA7vuN8M1pi3g=
 		</data>
-		<key>UIBarButtonItemArrowLeft@3x.png</key>
+		<key>YK_minus@3x.png</key>
 		<data>
-		WaXQQVnp7T1r5xxj8vSyK21oAgY=
+		C453d8rb+qIjUc3FQCn/gfSC3qg=
 		</data>
-		<key>UIBarButtonItemArrowRight.png</key>
+		<key>YK_plus@2x.png</key>
 		<data>
-		4MKs8/OLm4432yY3l3sjdQordxw=
+		I6TEdXqvbaVSF1fdHTI87MQjTjk=
 		</data>
-		<key>UIBarButtonItemArrowRight@2x.png</key>
+		<key>YK_plus@3x.png</key>
 		<data>
-		vN6FLbpdTj9250KKI/23Tb8XnsE=
+		fxOVFqYM0AHlqHK44UPZe3qXnqo=
 		</data>
-		<key>UIBarButtonItemArrowRight@3x.png</key>
+		<key>biaoji_normal@2x.png</key>
 		<data>
-		PIsaQctii3ry9UAckfF5xi2nkrI=
+		ZG1mjyL8f6ZfQSdbtHAiEq70Tuc=
 		</data>
-		<key>UIBarButtonItemGrid.png</key>
+		<key>biaoji_normal@3x.png</key>
 		<data>
-		Amc5zEUbaBZkxC4MDVseT2uToig=
+		vAZYX8S02e/nhD39NGKHtm671s8=
 		</data>
-		<key>UIBarButtonItemGrid@2x.png</key>
+		<key>biaoji_select@2x.png</key>
 		<data>
-		c6+NoCdvrCZQnhvzugTAG2cFpwE=
+		ZOjR24SDv8rLXEBsutJj9JW+CYI=
 		</data>
-		<key>UIBarButtonItemGrid@3x.png</key>
+		<key>biaoji_select@3x.png</key>
 		<data>
-		oa0leNeEEATv26/c70lrnfAj1Xw=
-		</data>
-		<key>VideoOverlay.png</key>
-		<data>
-		2t4Z+Zfxb2yN/TiEj5AdupFk6cI=
-		</data>
-		<key>VideoOverlay@2x.png</key>
-		<data>
-		oeTCTrkhjiw3iBQ6Tma+LAb5h8o=
-		</data>
-		<key>VideoOverlay@3x.png</key>
-		<data>
-		hdPu2sPyB+wm+Cmi8eZuC+PpMzk=
+		IOO6mcmV8bvqflCX0+EARPECj6A=
 		</data>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oGEjFP65VkGZZw+LOkBlPXwqWz0=
+			BN2w2hW3zx3BAgn5GwizCLHDYFw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -891,7 +1000,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			50L/4fHwiE0do9F9HjPAk9yVjMo=
+			DtVxysSfo5/qMFTrrUmUDxgn+u4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -914,88 +1023,88 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			h08m4F3CE8jA4QvnW9+SjlLM6r4=
+			fAwRXJu4nIiQK8njxn9z6F/avPM=
 			</data>
 			<key>hash2</key>
 			<data>
-			YLP1S5oJy8fti7TWDXhGUUVi2sv7yJai+kAZ2X/L7P4=
+			zsvLtq2Dv5WcYR4LgqhZpyUMYGMTG8idZbs0VvkrO1o=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback001@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			UcI3SaO2GFYRbFW2coNAvd1+dT0=
+			gXELdw6B9RE5HZg8x3rALycai1o=
 			</data>
 			<key>hash2</key>
 			<data>
-			SP2OQM7ldGqT5qdZtBa+xD3HrraIdfqSCCSIlElydRA=
+			9e8Gi1TMEJzrRUF3eosun03UyStl5CHiOmtTCkGrjAk=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback002@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4JFyv+VAHfW7QREtglZ2MZjwluk=
+			7oDmKGdiC2nuT9fjEowCFaAM9Ls=
 			</data>
 			<key>hash2</key>
 			<data>
-			qR1FLfxBJiOrkP9svhRG1F8rfzX33Pj8WTHxkUcCj4U=
+			nO/NZJWEjUHgp6iAi0UPJwuLjaULvrHHXDTj625Dejs=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback002@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			3fyE8Rcbo1y7QZsozBwmDPHh2Oc=
+			SDLD8hUniflab8ZRUF8U8495hzs=
 			</data>
 			<key>hash2</key>
 			<data>
-			Rs9cmPkLM/02c6VE6CVf6lcE+DZjADP6Mw846Qj0feY=
+			V18d1NUD6jI5PHR8pXptAtHFE1L6y3W4KeMWFoNuR/A=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback003@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WAxDPbbbMZuAPK67VDF7TC24Xu8=
+			sWZSGJQA/PQMwoBfx5fu7RRqeMQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			zm6KC8WboXw5z+n+Pi5d1QQ4/cCuWzt9vgAwd1wzCp4=
+			luuUz9wy7OUuBW7JfGSGM4II1nEkmNCj5vt0fjxT0A4=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback003@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			qwzGYCZcoi2DAzSkUdESw6MD+p8=
+			W4oEvNA92zEotRmUR+a29cQ/8HQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			5OWPMhujD6mJsNEYBCIEE03rb2pDC55BI39XiZxicLc=
+			61NwUVnKEgiGpQcIPSGy846kwINKM43Vgr32LrEexZs=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback004@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lUCKfjh7qtiEe1v5TDlKGOQxiMI=
+			1w6H58HBm3oT1I9x/jHdgx1TrQ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			FEEx8z0GKmPTNgfU4l0n0i3PnkdtAbXT/XwmwnZRkgY=
+			ugauDo810DTyrIUJc61nbhd/LjXX2e2LBVRUqKLbmC4=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback004@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			HcpK4NrgMxfzqCGDjqIHIWaFj90=
+			gn/vNIEXLRr7XyhQx/0bAW5dgAg=
 			</data>
 			<key>hash2</key>
 			<data>
-			lzntusnFhJq8yQRuizQ0caYBYD9Mn54gZbPjKwrB4Ng=
+			60feLtsLNRqiTynWR0QGyEviye+rV//qD2SPn4IWsE4=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/VoiceSearchFeedback005@2x.png</key>
@@ -1172,6 +1281,28 @@
 			<key>hash2</key>
 			<data>
 			o+jtfZGHrcrrAQTVi2HCsokC08+2/2V6gnf/Yj9gK+w=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/VoiceSearchSendCancel@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ypgvrWfCPSt5vZhExOq4d8KCtOw=
+			</data>
+			<key>hash2</key>
+			<data>
+			AQTR6WLhXz5mCmtmDv2Ot3trkv9a3rfs2cCuuxkWKV4=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/VoiceSearchSendCancel@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MfoDv/umURtp+7xPhWSh8QtSGAs=
+			</data>
+			<key>hash2</key>
+			<data>
+			9Vwt2Bdu3IyBvYTONUksx9jWEJ59g0Eh/Qy2QwlsuYk=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/arrow@2x.png</key>
@@ -1695,110 +1826,110 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Erbq/hAPOHdPwVmNMUrx6ZzRGEQ=
+			k2EsAOo5jyP5A7OFTPOKCJk2ahs=
 			</data>
 			<key>hash2</key>
 			<data>
-			1R/bmmQDltt9TyG3ux4utgTWT8+wYs8cC/cc9a5AFWk=
+			qm/DzGM0gkLJsHn4QO7VfkftFBBqtH+VOA64lZxh33E=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_001@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TxJBat8lowtM2ZQmGGI6jh5n2dQ=
+			pdC187FhacgWKkXQlT0IrxpkG90=
 			</data>
 			<key>hash2</key>
 			<data>
-			PimXrUmb8iuTqnZI86eQ/x+my1Z4wERj6r2MzMYINwQ=
+			ggqLt0qMa7AxQWyzu3gkYGm1hnzxtOnbwp2QV0pcNIc=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_002@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			7k57M3ytmAZnzZp8VQv6Mw+vMvU=
+			SejccbQ5Sc/6oQY0r28XiJJymGk=
 			</data>
 			<key>hash2</key>
 			<data>
-			U83blaPTvtEChw9xi55yg4B1JmBMmgBPMCGe8T4IY60=
+			J5Z7KRRql2c7d/pulwukjFaZaZ3PcI0DYBJ0dfmh1Rg=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_002@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4+8rz/z2APpsGpII8bEB5Mx03hw=
+			MwymHsPxRwjKB+k9B+PQ0rIGjQU=
 			</data>
 			<key>hash2</key>
 			<data>
-			tVB8kW2OOH2eI2ycUturbLFy+RrofSWstufj0vLPHKA=
+			hijHtHv5M8w8pDmfAfwV1xNNLeXCutREeoIHrZ0wFoI=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_003@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			URywPAQoIUtLKUVqW6GAJxyln5A=
+			JuM20/wE0tnAoa0kkEpmMuKTd4M=
 			</data>
 			<key>hash2</key>
 			<data>
-			fkj5HCSJ8Hj4JKATtoJOA2/nGNnO6ciXuCL2LaBV8Ac=
+			H9TwoqbPBYMbw5U0qaMNg3YJ8eHTB8x7vsjau7tcFyY=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_003@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KsxG6GW5/9Nrg1stPrvaGRjcgmQ=
+			/c2Nb+zxySEzBxJba2GsApPlf/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			pa8L59BC8yQgpznF2JiiPMprByrijZO6HV86bHQdgmc=
+			7IcECo1XSpPS1Yd1GZSXKIyMeXsm2d5z6NhIw33clk4=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_full@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			URywPAQoIUtLKUVqW6GAJxyln5A=
+			JuM20/wE0tnAoa0kkEpmMuKTd4M=
 			</data>
 			<key>hash2</key>
 			<data>
-			fkj5HCSJ8Hj4JKATtoJOA2/nGNnO6ciXuCL2LaBV8Ac=
+			H9TwoqbPBYMbw5U0qaMNg3YJ8eHTB8x7vsjau7tcFyY=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_audio_playing_full@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			KsxG6GW5/9Nrg1stPrvaGRjcgmQ=
+			/c2Nb+zxySEzBxJba2GsApPlf/o=
 			</data>
 			<key>hash2</key>
 			<data>
-			pa8L59BC8yQgpznF2JiiPMprByrijZO6HV86bHQdgmc=
+			7IcECo1XSpPS1Yd1GZSXKIyMeXsm2d5z6NhIw33clk4=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_bg@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ebWFZNcxcKlx6L+dzEOfV7BslJs=
+			u8tAqXyekX+gikg2+AkxT9RHloE=
 			</data>
 			<key>hash2</key>
 			<data>
-			CTt8R6GHMYcivsFdGoKn8eV397baqAgfHqsw9ooRq+8=
+			fIk+qMgft6Owt7Y6yRybKLWHFR0oN+7D53x5i4QrUJk=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/chat_sender_bg@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			/T2bsDpbIdaQQ21D1sB4SRLLzXo=
+			T9UUgJ7aFR8VLmbW1UO81ZOBmuQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Ihm8CUGTclVvRgOmL/Wnp9aXmFY2gvpgcouW78hoLg8=
+			dXvsbq8lRVxUN/Rr/RpxVvoIYsyH3fW4faO6XXyL4Ps=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/en.lproj/Localizable.strings</key>
@@ -1836,6 +1967,248 @@
 			/iRfPIEb3bpsR+xWcsu22LH6zJsHwKyWjbtkHij99v0=
 			</data>
 		</dict>
+		<key>EaseUIResource.bundle/icon_chat_active@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pVRk1CHb0OyikfnPi/9Xoq1Ge/I=
+			</data>
+			<key>hash2</key>
+			<data>
+			NHLKaAQ6kC9LFNocpAuS95C4vzLpk/u8U7MUklUhEIU=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_chat_active@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0oLbK80mZwJKnOye+Wf5veiyAGk=
+			</data>
+			<key>hash2</key>
+			<data>
+			VxPiupsXUys9Z9C7I8ntmSAnPoeVQ0XnnH1gVykNAwM=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_check@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			48O0tCI4NiriWyLWvHr2vU6wF5k=
+			</data>
+			<key>hash2</key>
+			<data>
+			W6YAfk66MMEQcbs+tHLmgkOzxK3ChkHSfiOGoLyrDoU=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_check@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6Au9FFzUDBzL+70CeHS2C7PBRsk=
+			</data>
+			<key>hash2</key>
+			<data>
+			EsabXUIpc3mtcV/4xOShTPMn3+gj7Z36zX9dOojH0I0=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_department@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lygK8EbUgFZ7IvMobrapKRXcDiU=
+			</data>
+			<key>hash2</key>
+			<data>
+			0LVmld44xwgMk8XKYubFMkChHe+xZkPbuzU5pl13S9A=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_department@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			+j3asebShrfuUMqE2Xjos+oNQrw=
+			</data>
+			<key>hash2</key>
+			<data>
+			n01ALOjHGFSBOm7f9ak+IrPCM4KimwlUHxGCI1niIyk=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_message_active@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PNr2qgL/UWFDysdACmgN59ldkVU=
+			</data>
+			<key>hash2</key>
+			<data>
+			ptSBkuYpTDBE8iHuHg0xbdCQLlHb8cnmVRAYNgoFTxg=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_message_active@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			hxDGSq354O6ad9T3atw+AL2lsWw=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q5JuF1H4KFcYJP6KggH0LgUveyswYRMtM1+7v4lxp0M=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_more@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			D8tWLNDoM3MkW1cMnG2vam2VDFQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			lx9UAJIcDHhpWz+ixKlNPGeiIiXcIB5ei7UUo0nzdEk=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_more@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			HGjvjj7cInOlp2BvAkCCFVt+Nho=
+			</data>
+			<key>hash2</key>
+			<data>
+			rsadPdf2Q0Us2wBmExo+aJDxXcrLeOM3XRLML4P8HE8=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_organization@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LnXvgytpQe9DKOuzK7QBTkOTSPc=
+			</data>
+			<key>hash2</key>
+			<data>
+			s22wceHRf3vi9qkmIly1meG+2E1KY1OEB7H3LwQpb1I=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_organization@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EjljgUvXsc5wOEbh7F+ssXqZ460=
+			</data>
+			<key>hash2</key>
+			<data>
+			RsC+FSd+HQdA0gLhKEw8yIRxEt0gO7jIgB/y963MWw0=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_pulldown_normal@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UxBqRYLZsTwitPEe7JyfZq3IOmM=
+			</data>
+			<key>hash2</key>
+			<data>
+			5Od3hazniQANEt6oi0zBtzRQtHeehbg5za9Rj9uk8Nk=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_pulldown_normal@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			jWjN9AuWoYh4sNWAS+kwY2r8GwA=
+			</data>
+			<key>hash2</key>
+			<data>
+			PylJjuciAnwdp/70em9D74/2qklm3HvvF3YJ1u9jmog=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_search_tltle@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xAvlmcB5pzt2KzaToqK6E5Iy3oc=
+			</data>
+			<key>hash2</key>
+			<data>
+			2g/lNCvxAj+oFcCyKfoI7/YBy2OnePYnbt0eLlzVPic=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_search_tltle@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Y9q49pC6AQlkUahA6EVYdr92hOQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			1EdquVsestE3QRVjcFPC1iEjMEWxHu5YDVNorVRpbIg=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_ueser_downline@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			zc+wtZtuCkgh4hmmDvbvHDLn4+I=
+			</data>
+			<key>hash2</key>
+			<data>
+			3V0ucCmZhOkiDhoTB1S2ZMRuj3KAzdvFOkn7j1R8+wE=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_ueser_downline@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			p5TRPCyh+nME6TI73+u3iGeb11c=
+			</data>
+			<key>hash2</key>
+			<data>
+			/p2hr/5p5+8MAvXy2fMrFrjUkAf93YzIjHr8B0vb7I8=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_ueser_head@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OJMkz0VFAc0AlYviqw1oy/hXxDo=
+			</data>
+			<key>hash2</key>
+			<data>
+			Zh2jTHtjls1B86l5CXSiS9f12C/syAHCwfkT30i72TI=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_ueser_head@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XkNXTg21mBVq5tiY6Xc0Dwqu9pA=
+			</data>
+			<key>hash2</key>
+			<data>
+			bYUpPjD6yUOOfJdshxjSbFCQDNDN7bQ4tbMQURpNrGI=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_ueser_online@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i1AMopWeJSOoVbqZb+XronLhnHQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			gHXKQ1H3a/U9qXTZvXhUbMeJMBfXs/h/3qQRYtEVAUo=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/icon_ueser_online@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			F8gRvae498/Ax92d2d/hT+9REC4=
+			</data>
+			<key>hash2</key>
+			<data>
+			poGhrd2dPhtmkNJQAsKjxeXNZDqhLXPkDRpPpcEFSx8=
+			</data>
+		</dict>
 		<key>EaseUIResource.bundle/imageDownloadFail@2x.png</key>
 		<dict>
 			<key>hash</key>
@@ -1845,6 +2218,50 @@
 			<key>hash2</key>
 			<data>
 			zoFhCv/lVCdAE4BI4NhzHRFZOAh4NjmW39/FIYdTBf8=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/img_color_orange@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XJ5ZdgY6Z98DQhxO7E8hZmI5aF0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q+qKdieeMw2HaO7yzZOBtJINRJF+JTrS3gjhDs4JTKM=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/img_color_orange@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bHaIe/Lv4/aBWo9qgq+eDqouc6E=
+			</data>
+			<key>hash2</key>
+			<data>
+			JkVHuGbZiuEL4MnDItpnVkLgHGcQ7SF/b81AD8M+4lw=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/img_f7_color@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			wLKuE/xLHMc2Fmn7M0Vpp9Z5aJk=
+			</data>
+			<key>hash2</key>
+			<data>
+			FLdDCzPVNtzey6ScP5flw5Y22shrPIBhxpiJrCv37II=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/img_f7_color@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sshG9dLvQHju7DEX9nKxLoHyTeE=
+			</data>
+			<key>hash2</key>
+			<data>
+			FTeWrlTPhJrOXAF8w0yaGc7FOLxxffXuqFSyq2qzN2w=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/in.caf</key>
@@ -1862,11 +2279,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			1YRs0xjYW5eU6h1lWdsC5A+G8Hc=
+			cZfsBLskDaV31czbEunToz9boBQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			Va8EVsGBwbEPLTIcV+XmJTYz7OJ4M3O2REHQB3smgCU=
+			2LatxVrcyyHlufTUNKNj8eCERkSFbjjoflFkSb/Ycug=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/messageSendFail@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7iNYx51O4qM3yp8FUOMfsDy6NP0=
+			</data>
+			<key>hash2</key>
+			<data>
+			Ys9QrkUcejyyGCe2tloHgXkLFhQua4op5JHrH6e+kyQ=
 			</data>
 		</dict>
 		<key>EaseUIResource.bundle/messageToolbarBg@2x.png</key>
@@ -1902,6 +2330,50 @@
 			xKaB8R5UWC4q7UoTtWQvy5kxa69KAXbZxRiv15pF3S0=
 			</data>
 		</dict>
+		<key>EaseUIResource.bundle/userTag_button_normal@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1/oXYa9DCtlikz+rhlDs30AK8g0=
+			</data>
+			<key>hash2</key>
+			<data>
+			2Qh2WM5N8tiZdheqwgtO0EFGhyrWd9j+i5z1+WoRH3I=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/userTag_button_normal@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sJ79vtxP2yu8lWKQvZEKZPOm60M=
+			</data>
+			<key>hash2</key>
+			<data>
+			fOqOSqMoniGJp5pQke0j5Y+JJ0DqVgyJVCsBkR4D/tQ=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/userTag_button_selected@2x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			reiXT2pUCfuxubL6vvI7wWbsJFM=
+			</data>
+			<key>hash2</key>
+			<data>
+			56aBNW0571CNnQerOC9kef5jJGxdtzXeue1N1MNakM4=
+			</data>
+		</dict>
+		<key>EaseUIResource.bundle/userTag_button_selected@3x.png</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8wWJiU/ziHmSgIC1RDrTsvJAPkw=
+			</data>
+			<key>hash2</key>
+			<data>
+			9NEevxz1JcLMZ5LblySsbUguUkO+u6XrkhRUXo+6Syg=
+			</data>
+		</dict>
 		<key>EaseUIResource.bundle/zh-Hans.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -1914,6 +2386,83 @@
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>Headers/AddressbookDetailViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ru+fJg5X8dZnG7EgHRdQiUwS0ys=
+			</data>
+			<key>hash2</key>
+			<data>
+			eCuG7OgxebkwKT0RVFJDUKluSRbhqvBuYDRy7Z2Cumg=
+			</data>
+		</dict>
+		<key>Headers/AddressbookViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			30Gq8IQY43Ic6X/kSq4gJpuIXNA=
+			</data>
+			<key>hash2</key>
+			<data>
+			WEcQlB4y8woY9KcSqNc0W+pI1+7N3Qz7MTKm/LQsuEs=
+			</data>
+		</dict>
+		<key>Headers/AlertViewOperate.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gP5Mpwu8qKkRIJM05vslGmaHYIg=
+			</data>
+			<key>hash2</key>
+			<data>
+			fVhv4kN5rVdskZjoyKD9d2iNC+mKXPrpskkU1pD2c8A=
+			</data>
+		</dict>
+		<key>Headers/BaseAlphaView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mkZo8bjpB79IkcgL279vbnPxZ10=
+			</data>
+			<key>hash2</key>
+			<data>
+			CEpbeL++kwqTH64W9IH3zUgx02MmOWKuRE/CYaEmMcM=
+			</data>
+		</dict>
+		<key>Headers/BaseChatlistView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NFoUzxL+xH4KOQB72naPlj+KdbU=
+			</data>
+			<key>hash2</key>
+			<data>
+			ACzHcSwLoAVZ1z3vMU+va9ac7NB/A9+L5WO31ci0wUY=
+			</data>
+		</dict>
+		<key>Headers/BaseService.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OZEULAFDN0DxfFjlFrVpbOx8dGc=
+			</data>
+			<key>hash2</key>
+			<data>
+			2RL85B/7gBMyI9Ka83EihqdvGX6Ndgp2pHaZkYp5ZVo=
+			</data>
+		</dict>
+		<key>Headers/ClientChatlistView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			imPc/+6RwNOzFACSlX+jZG26j3o=
+			</data>
+			<key>hash2</key>
+			<data>
+			qTVweYZ8sJOy/JxHR9N7dCTAhmBtm+9nmFDJOa/F5T4=
+			</data>
 		</dict>
 		<key>Headers/DemoErrorCode.h</key>
 		<dict>
@@ -1952,11 +2501,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ohFs+VwtsACIbIiH7IImop6W7Ro=
+			hEvOICtp7aN/Pw4wzlLobzruF6k=
 			</data>
 			<key>hash2</key>
 			<data>
-			iXbqLmDTqxlt4JS4JJhe/mP8cGyAoBKtl+8LOnrhQ6s=
+			RcKwlKtnFhqL3griDO2mqfBdnytxkwhD5pbljbLhOqw=
 			</data>
 		</dict>
 		<key>Headers/EMCDDeviceManager+Microphone.h</key>
@@ -2051,11 +2600,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ul9H36DLX0Z9ZHoNDS2N22FovXg=
+			P1W0TZMljuWmv7vZf0dNoZsI5b8=
 			</data>
 			<key>hash2</key>
 			<data>
-			K/K0IzU0hPQU6AWNGbfudlpjzgjHb9zeKXUMHcTfWIU=
+			SD6fbnw7lNMWWtuIrCtvcd4zry16/DZ2PbuJcvzq9vU=
 			</data>
 		</dict>
 		<key>Headers/EaseBubbleView+File.h</key>
@@ -2150,11 +2699,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			61+WBCrwxAFGFozECs02ySRIet8=
+			kYxa3ooRALKQK6snmbDnK5+l3yg=
 			</data>
 			<key>hash2</key>
 			<data>
-			DQTw3a/Xw7VLjmAjftG6PiCWUhwW+PyFr1psC561FoU=
+			1KQzAZyZKB5cCBCNS7iTE/aVePjutmt3/ghIbCF3fmI=
 			</data>
 		</dict>
 		<key>Headers/EaseChatBarMoreView.h</key>
@@ -2172,11 +2721,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			IcfHkzJOsaoJJybEO48htjI5RrU=
+			z2GO+GKhMlLVC5P3a2Djs5J1ny4=
 			</data>
 			<key>hash2</key>
 			<data>
-			h7tuxWuvPakJ8kj7EKxctQHmAXIAeObBXAxahkrBzyE=
+			IC/zAArWxvBR006/d/r3q4nHybaYJHu3s2p4iPCBoEQ=
 			</data>
 		</dict>
 		<key>Headers/EaseChatToolbarItem.h</key>
@@ -2201,15 +2750,37 @@
 			dnJwluMmp2zYhYiwCa/IPh7bxEsOSWpbFYIt4lku5MU=
 			</data>
 		</dict>
+		<key>Headers/EaseChooiseView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QkRDG2pG/JfF2HP6Lf1knLtaDxk=
+			</data>
+			<key>hash2</key>
+			<data>
+			REkU9xVNIDiV1QZqLCGhYiIV88DGZKMyMLchziZ6d1w=
+			</data>
+		</dict>
+		<key>Headers/EaseConsultListViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1WjxxkQkEsxNntz4RgCmadBZiak=
+			</data>
+			<key>hash2</key>
+			<data>
+			xHwcx5IvEy+CNHp9Q4R5QoonmBj6H4PApGuVjtSt+34=
+			</data>
+		</dict>
 		<key>Headers/EaseConversationCell.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A5AL+OEUBIGX68DdIuB9GsILCcA=
+			77CZcspTC9SiE2Uo1EDjv3h7h8I=
 			</data>
 			<key>hash2</key>
 			<data>
-			upxszBYvK9xlveldnnVlek9j7+XeljnuFXd3rryYc08=
+			SNu7LiWfH8X3qb9K1RAanGcBwu7XQejumt8baQd1k4s=
 			</data>
 		</dict>
 		<key>Headers/EaseConversationListViewController.h</key>
@@ -2348,11 +2919,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			zQyDMxI5y7tZ983OHK+IE8O9BjM=
+			LoG3TRPI+vJyGSAhJpyeEhCuo50=
 			</data>
 			<key>hash2</key>
 			<data>
-			YO+Fre7rKPXUq2gsjO0y9jy6R1IKHSlWMBOqtIBV+B4=
+			r/2LaOlgL2NWQj7r1j0PD3YmNhNY5J9+jbhEpRN5qR4=
 			</data>
 		</dict>
 		<key>Headers/EaseLocationViewController.h</key>
@@ -2381,11 +2952,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mev0Rk30v4Yc+bZ0vZpwHJBoyCQ=
+			n8iNySKADVE/qMl5BqSaBEO3yVs=
 			</data>
 			<key>hash2</key>
 			<data>
-			pQZkPAnhiV0HBhiu02R75QA2i08H06UDIauS5xCOVrQ=
+			/YLoSrasZMz9yjUTYUNRQT/9BOpl/MGqrEQ2GRvrbXg=
 			</data>
 		</dict>
 		<key>Headers/EaseMessageReadManager.h</key>
@@ -2397,6 +2968,17 @@
 			<key>hash2</key>
 			<data>
 			01lJ3SRbIU7vKaLhL6+AOMvhfRCv++qJLz8i6f51DfE=
+			</data>
+		</dict>
+		<key>Headers/EaseMessageRemindCell.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			t8ufLVCH44Q2xzqgGwtIgGjkiuo=
+			</data>
+			<key>hash2</key>
+			<data>
+			5PGuVwb6fqNn+dmC786XJwtYHe0cPI5uNC3KhReKDiQ=
 			</data>
 		</dict>
 		<key>Headers/EaseMessageTimeCell.h</key>
@@ -2414,11 +2996,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			edffh+kmCxKhXm+1PTGMxsyfkLc=
+			eWkJ7ysr+X1N+sQVaW/taphWtHI=
 			</data>
 			<key>hash2</key>
 			<data>
-			CbN8Tti+2wc6WHHIBQGLoTJjE0KJhOHA7X5MTFxarpI=
+			Po9hDGGzDb4sSb4y5bL8n7F7xvXiNh+kVoDmKPB8D+c=
 			</data>
 		</dict>
 		<key>Headers/EaseRecordView.h</key>
@@ -2469,11 +3051,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fdWslvhFef6wnwHuskvZIrJuOT0=
+			GfqOe+bBUSzGxiOFPCxMCTgag9c=
 			</data>
 			<key>hash2</key>
 			<data>
-			o/DQRD7y1XP7qfAWh11gUjGcGBCgIJCvz4iSeJx4j00=
+			e9TROl/+OQZaPq9v/0anicQMKaxuRJ/bl2/8fJe+sHg=
 			</data>
 		</dict>
 		<key>Headers/EaseUI.h</key>
@@ -2531,6 +3113,28 @@
 			om1On7nTl7wXSV8Z1IvCeLUHasu3v5uojnV/ZXPggVc=
 			</data>
 		</dict>
+		<key>Headers/FunctionPopView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			shDZOyo1wrMgCQKmKiwhaxPUS48=
+			</data>
+			<key>hash2</key>
+			<data>
+			8KPMsauynXptKpaDwlhtDBZXiYq8S+tUlqqkMZOgZ5o=
+			</data>
+		</dict>
+		<key>Headers/IATConfig.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			LEn83NAja6L6uZwWqKRKMY8rgZw=
+			</data>
+			<key>hash2</key>
+			<data>
+			bfNxC/oZs6BdW69QUWa0LdpkwbmsDnOx0+tC0y/PpKE=
+			</data>
+		</dict>
 		<key>Headers/IConversationModel.h</key>
 		<dict>
 			<key>hash</key>
@@ -2546,11 +3150,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7KUhdXm8ixg1lp3m97bAzOkS4sw=
+			s9pvLYxtY6lBN9zo386ddtOFS0k=
 			</data>
 			<key>hash2</key>
 			<data>
-			f89hMbhNjNJBrEdqLeNpQXiY7ld2JJeROdSiOtUy900=
+			7GX28v75hYwVoavH1KJH2qdGdu/UD2deoNC4vJgoGTY=
 			</data>
 		</dict>
 		<key>Headers/IModelCell.h</key>
@@ -2586,6 +3190,28 @@
 			LWBObxFL7Htp0Hax8ydKl9Xr1kt8Tl8rjoQI/UJ/004=
 			</data>
 		</dict>
+		<key>Headers/JoinChatlistView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			7egXkzvYrsZYaXprsK3iDsC3rnk=
+			</data>
+			<key>hash2</key>
+			<data>
+			DvV0PYgIZCj++9S1sofh4lVWxSc/hJzLL488Al8MtMY=
+			</data>
+		</dict>
+		<key>Headers/MateChatlistView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CchMjpXaZdPAdGf8X79pXzCwjwg=
+			</data>
+			<key>hash2</key>
+			<data>
+			AjVURd2hCMnJ9rxbzlCNGkzyAL99vQL6DG+zNYpseJo=
+			</data>
+		</dict>
 		<key>Headers/NSDate+Category.h</key>
 		<dict>
 			<key>hash</key>
@@ -2612,22 +3238,121 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rOaH1b/Rndwzqt0k9Mtg1ExVs64=
+			5+Tj2e5XptZ1r9UqdvieLPwr33M=
 			</data>
 			<key>hash2</key>
 			<data>
-			6DlUacTcCOsbJdpfMesKpM54ScDmUycm77fdArBY06Q=
+			3tDdV2yUJTPG0QfWYVzbhDxHbDPvlA0QMQ7unV58Nts=
+			</data>
+		</dict>
+		<key>Headers/PDChatViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BdNPiWdd4ouGJA8xtJAKaXJDAXc=
+			</data>
+			<key>hash2</key>
+			<data>
+			nQjn5gX+9BKMTDsotjijjPBEmwLOgyEQxvcRerSCfzY=
 			</data>
 		</dict>
 		<key>Headers/PDFramework.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ftRl1tzhX9okPsBJnCIpM/MnH1A=
+			IQWcka/Ll9K528twugVhvQgmjIk=
 			</data>
 			<key>hash2</key>
 			<data>
-			M01GT5Gxnt3bgDUeS76RscaHcoEKfS309IF7QNJBTqI=
+			mUBjJ2Ts0YKu0Iz+kEf5ecu4H/kZuxKmRG0jkOy8uxI=
+			</data>
+		</dict>
+		<key>Headers/PDSearchViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			UJZ6oI0XW8X7EOADTsEqfIQE2vY=
+			</data>
+			<key>hash2</key>
+			<data>
+			HicPgUA1IgfD/yIh76L8ZiVw1vDorxlA3JVejOVmGlk=
+			</data>
+		</dict>
+		<key>Headers/PDServiceGroupTableViewCell.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9pLEiTgB10BmhlnzKanD7yiOMq8=
+			</data>
+			<key>hash2</key>
+			<data>
+			vLJRcErMHKuBS2wkTpAP7JS1SQHMUbsaxKBkPS+/yTo=
+			</data>
+		</dict>
+		<key>Headers/ServiceGroupListView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6luorTtkoId2AbAWgf2+i5iNBjU=
+			</data>
+			<key>hash2</key>
+			<data>
+			oNoY+HLAk9UBX5rfUZA7m7QVp8Lr/dySil2IKUPskG8=
+			</data>
+		</dict>
+		<key>Headers/ServiceListView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OccHyrzf3N4OXvDQSNN8f2Sd7jU=
+			</data>
+			<key>hash2</key>
+			<data>
+			t+UDhKZCoBAW6gKDiDV8qzgmnaUxOYZLnjrv3LY6Wpc=
+			</data>
+		</dict>
+		<key>Headers/ServiceUserDetailViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3Aydi7CtNrM9ODZ7fEq/Xn7jYYU=
+			</data>
+			<key>hash2</key>
+			<data>
+			3ze/YPjSA4ZxU3S2Zb6tt1NYG0wiPp94m0RPqdhBMSA=
+			</data>
+		</dict>
+		<key>Headers/SignViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TvJiOUqXP/0hqtUHikBEMD3BTuk=
+			</data>
+			<key>hash2</key>
+			<data>
+			Q/mpZDKyNRp6FVrE74ijOD5nhV7H5x2KeyaAn2P/GFU=
+			</data>
+		</dict>
+		<key>Headers/TagView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			1V/22AsC0lCwB+h4+oPE+gIqsqs=
+			</data>
+			<key>hash2</key>
+			<data>
+			fv4maWX6QR1C6ywXdnLpnQXIpPSpdSMWae82bAjzz9Y=
+			</data>
+		</dict>
+		<key>Headers/TransferSessionViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			NTXLGf7mKIB9ockIOnP6b6puA7w=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rng+nAYEH+s/5Mv5I76iaP6Sr2iTzAfjNEgQ6l/xC4Y=
 			</data>
 		</dict>
 		<key>Headers/UIImage+Category.h</key>
@@ -2661,6 +3386,61 @@
 			<key>hash2</key>
 			<data>
 			+ni5ZLyKJBzqNz9JChd1QSvD3M6IdaCm6cXISHISk2c=
+			</data>
+		</dict>
+		<key>Headers/UIViewController+Helper.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CVEyYi2aV9JShiarmKU1KHUOnTY=
+			</data>
+			<key>hash2</key>
+			<data>
+			pF+OltFJ4tX76lF1JQSzrUZ/CAKp+BCDHqD+8e9AwBo=
+			</data>
+		</dict>
+		<key>Headers/UIViewExt.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ym7ca8qFkvHJemRhisKbokXuJBQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			TddwT7Yl8URIPYrZsLPislktUKtzr1oAkD3EyF0GRQA=
+			</data>
+		</dict>
+		<key>Headers/UserDetailsViewController.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yYJbQwElUd8sOOH9hDc2ric0r3I=
+			</data>
+			<key>hash2</key>
+			<data>
+			Rl2rMv1LoV+MZZuIT+6W6RUs9cg+UPf5PgPQKd50+wk=
+			</data>
+		</dict>
+		<key>Headers/YKMultiLevelTableView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			oq3jkk00cKu4N/4T3e7TdoeffZs=
+			</data>
+			<key>hash2</key>
+			<data>
+			uP1hFqgQ/KDVALWhAo8cm2X31EKhDvuOACV5NCrwJdc=
+			</data>
+		</dict>
+		<key>Headers/YKNodeModel.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			QoODppAo4AQHJabGOgQFdgBIjtA=
+			</data>
+			<key>hash2</key>
+			<data>
+			bo5DQ/YLsvhMWl7q3GwdIElDOjlVwhJIjeCFUFbYmuQ=
 			</data>
 		</dict>
 		<key>Headers/amrFileCodec.h</key>
@@ -2729,243 +3509,6 @@
 			VpGIvtYagvmu/uNILqTcPoYhvA4cae/k8wOOnjvlG+o=
 			</data>
 		</dict>
-		<key>ImageError.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			riHb5tue+61CJyiJKO6Vm7s+mmc=
-			</data>
-			<key>hash2</key>
-			<data>
-			0ls7bdjGNt3uTyYKYG9IQu3UyXvG5cC7IFKZupBZmJ0=
-			</data>
-		</dict>
-		<key>ImageError@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xdcY/8YDRl5WJ0aUnuaB1n2cti4=
-			</data>
-			<key>hash2</key>
-			<data>
-			NUOWR3tFQZmxRDd6bG1qdXn3013Fv/GY2jwNBFnvVIA=
-			</data>
-		</dict>
-		<key>ImageError@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			CU/vmqMx3X7XzrMBd5seI6cz3vo=
-			</data>
-			<key>hash2</key>
-			<data>
-			3RQovRMgskEu+b6ewUntXqjE4K2Bxku3jTMmi4g5Od8=
-			</data>
-		</dict>
-		<key>ImageSelectedOff.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/6hDx684qxmpz/unuDy6UAkchTg=
-			</data>
-			<key>hash2</key>
-			<data>
-			aa3DnDkNA/L9Lxrun1JbvxvToS0ZE24aDQ/0L11MbtE=
-			</data>
-		</dict>
-		<key>ImageSelectedOff@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZUyg1RTtt3/4mv5NHuQuIVevSWs=
-			</data>
-			<key>hash2</key>
-			<data>
-			ip5fxGTpxstli3icYO8Mmua1b2JB2szq+i7n6FH7RaE=
-			</data>
-		</dict>
-		<key>ImageSelectedOff@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Wbn6Gs9EXEddS86JOB1SJlATcs4=
-			</data>
-			<key>hash2</key>
-			<data>
-			VVujcakDtE5tb0T0L2SawO0iS9p8mi7TrnvPIAvnr7A=
-			</data>
-		</dict>
-		<key>ImageSelectedOn.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			E3/vw34A5d5c6C11W3yTlgNIc8k=
-			</data>
-			<key>hash2</key>
-			<data>
-			j6hd1y9NOL0JkDmJVbA6LTMO8Y+6EVBPOKcxgyxelZY=
-			</data>
-		</dict>
-		<key>ImageSelectedOn@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1x09FiDDlyT6jhTOL8cBGQdNKzU=
-			</data>
-			<key>hash2</key>
-			<data>
-			GideEHO+aRanGEf8SucYo+rFZv56CHT900iaIT6+GfY=
-			</data>
-		</dict>
-		<key>ImageSelectedOn@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0aNCYxNjq8H78WeXUnaRnQEWsO8=
-			</data>
-			<key>hash2</key>
-			<data>
-			9csMrqB3MTcJ3N1Hgu36qoJdO+oN+2dOZAF3r7Di4gU=
-			</data>
-		</dict>
-		<key>ImageSelectedSmallOff.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			fbUHFeZGOwLVlNTyqdcDXXsWyzA=
-			</data>
-			<key>hash2</key>
-			<data>
-			/gdlmZQ+aJ3ocOSljhNtxZfMebReI45wqGfM/BB4D3E=
-			</data>
-		</dict>
-		<key>ImageSelectedSmallOff@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Mjoe+nhQMMW9eebrp7TM2fmclOk=
-			</data>
-			<key>hash2</key>
-			<data>
-			8yya4+JIYWT1cFnEQAbvzfeuMdSevgui63gmgVYJASE=
-			</data>
-		</dict>
-		<key>ImageSelectedSmallOff@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			epInFJal6+rb5I1EQFS0j2+oLJc=
-			</data>
-			<key>hash2</key>
-			<data>
-			8Oz60/NHlycKv7Wbpunq9rfui36G0+XURxiS20mFeRQ=
-			</data>
-		</dict>
-		<key>ImageSelectedSmallOn.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			ZwDkB0AtEGOc9mVvXWsikNLIPc4=
-			</data>
-			<key>hash2</key>
-			<data>
-			qAjrDrcMEToWeimHD3xcbQdMUriGhqeH892Sch0kO6I=
-			</data>
-		</dict>
-		<key>ImageSelectedSmallOn@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			dYdXIWdj8ciaNEKDgXD7YTXmJH4=
-			</data>
-			<key>hash2</key>
-			<data>
-			5ZscmfWqKu41JN3GkIJHRp/t3X6scM5cnv0BjMcERHk=
-			</data>
-		</dict>
-		<key>ImageSelectedSmallOn@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			IN4n/Fr3fjOX+2qXFL7LJntERsg=
-			</data>
-			<key>hash2</key>
-			<data>
-			5iKcWPx8sLep/VGBAmhd5YoyyAAiVcn+HgYDenLEinQ=
-			</data>
-		</dict>
-		<key>LICENSE</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			M2OCjvTm0r0UZzGhbaOBN8WjqnU=
-			</data>
-			<key>hash2</key>
-			<data>
-			lXh7x9hm3n+AhPxfDwcsWiAlip5NXXN1G7TPBQVUiQQ=
-			</data>
-		</dict>
-		<key>LICENSE.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			o7bPJVe5ifRC3sOPV4i6RSfBoik=
-			</data>
-			<key>hash2</key>
-			<data>
-			BEI/T6iBrJ1QD3S9va7XYhQli7i7vodsbLoSAaO+Oqg=
-			</data>
-		</dict>
-		<key>MJRefresh.bundle/arrow@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			5ZENFuDcEgHjDuL7tn7h97HeuSE=
-			</data>
-			<key>hash2</key>
-			<data>
-			5pZTVM6xOoz5TmObI4Nq10XxwWgOr9sM2We8r8FZAYg=
-			</data>
-		</dict>
-		<key>MJRefresh.bundle/en.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KQHJxiCxikpJx3GEz3x/uldyTBk=
-			</data>
-			<key>hash2</key>
-			<data>
-			uH1w/EXy8xgq9Jt5Z/RASzrSw17Jg6sWdycV360D1WA=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>MJRefresh.bundle/zh-Hans.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			DD5bNeaUTksFP2PkSNtokoJkKjU=
-			</data>
-			<key>hash2</key>
-			<data>
-			5c2ENj+vfMLxJOnUypY2dhJ3O8hGg7P3PaWrgwX+G0I=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
-		<key>MJRefresh.bundle/zh-Hant.lproj/Localizable.strings</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hjIzn4qLs8xLMnelxOeMouDSaZY=
-			</data>
-			<key>hash2</key>
-			<data>
-			AteA9vw+ofnahB0RNbonkmUulQC5Co8UvNf/1MwU7a4=
-			</data>
-			<key>optional</key>
-			<true/>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
@@ -2977,92 +3520,26 @@
 			Hgw9pyzH29TLj2HY0fwD4u82Tc4rpVC+tQ6sjqYQt68=
 			</data>
 		</dict>
-		<key>PlayButtonOverlayLarge.png</key>
+		<key>PDSearchViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			kWzb4LPFcHSJzxuE4ojpGSTONGg=
+			fdQDYRJLv51ZKjhZAYRmsFr2IGg=
 			</data>
 			<key>hash2</key>
 			<data>
-			BjzmwaqBQBPBuc1m6wPCCEzrLwfizr9uvxdYFYcOr44=
+			zaWk7lwGN8uWKXAm8XuGidFL6dUg/xKXW8kJ/Q5AOM4=
 			</data>
 		</dict>
-		<key>PlayButtonOverlayLarge@2x.png</key>
+		<key>ServiceUserDetailViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Krxm/DWuajrAxfi4xqWpG5BoO0E=
+			1mpd41htSItMk8iRum8doytL9Ao=
 			</data>
 			<key>hash2</key>
 			<data>
-			gQeorK8KayOdelUmJlm8mWDL1b8Bkf6upVgPEQ6dqhE=
-			</data>
-		</dict>
-		<key>PlayButtonOverlayLarge@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			4HKUyL+PdLrrmcp+fODS1CW0Omo=
-			</data>
-			<key>hash2</key>
-			<data>
-			uaeA2sp0UcEj1C0yhuVO+V6PfNmgzWUI7fhQFDVP1j8=
-			</data>
-		</dict>
-		<key>PlayButtonOverlayLargeTap.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kwGm/FUElQxAkP9za0yMFIXxIkg=
-			</data>
-			<key>hash2</key>
-			<data>
-			1dPBWpiFE6myKPZMc84Fc0+Bz9czXh+dwKhUlYOLXoA=
-			</data>
-		</dict>
-		<key>PlayButtonOverlayLargeTap@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			0SYa/d2InBVPsI9GhHtLiYb7zbE=
-			</data>
-			<key>hash2</key>
-			<data>
-			IvocDChCwTrWJahu8QPtCipHA8iyMhF94pVSweu0KaU=
-			</data>
-		</dict>
-		<key>PlayButtonOverlayLargeTap@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bxzTg/VSpedc+d6uesb8uMyi7wk=
-			</data>
-			<key>hash2</key>
-			<data>
-			M3a04+O9zFwezzZvH75rnMlkwkHf+tGe7Ar4xgEdMYA=
-			</data>
-		</dict>
-		<key>README.md</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			48DGL8LO1SBBJHjHRcW9iS6STEg=
-			</data>
-			<key>hash2</key>
-			<data>
-			o5ov2FLqO5GsitFgntz5S6pa6oYHuUesE9g317WO8ks=
-			</data>
-		</dict>
-		<key>README.mdown</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			BdguduAQGBt50V1DsL4OsugYIKI=
-			</data>
-			<key>hash2</key>
-			<data>
-			Pbd6uIUcROy15cgyN86yaWHStSm0fL8Fb+i2XAzhAwk=
+			DTan/qPKlsrULC3jMWji/DUDg5jRjaI8LfSeDE7ZwTQ=
 			</data>
 		</dict>
 		<key>Settings.bundle/Root.plist</key>
@@ -3089,147 +3566,114 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>UIBarButtonItemArrowLeft.png</key>
+		<key>SignViewController.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ohXC8pS92JoKLsStfilbDQeVn24=
+			UpbPVhKXJUDlZFRWRVTicFwrd54=
 			</data>
 			<key>hash2</key>
 			<data>
-			ltxGgOr+/2ecgbrGuGWN7V6yk6xa1Jbto1eOo3IV9Mw=
+			7LRlPiB9v6Fr2poFFa2UUB0zr26PzCC04KeaBVjAiDc=
 			</data>
 		</dict>
-		<key>UIBarButtonItemArrowLeft@2x.png</key>
+		<key>YK_minus@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Wem46cpjowsL9B24dxEdUVDXIJQ=
+			YDtQXMtMUtI8MtPA7vuN8M1pi3g=
 			</data>
 			<key>hash2</key>
 			<data>
-			pZj+fIst3Aa+derTZlt2XsCqU8G79HQRUJ80wSjvEV8=
+			wCJBXxYYi+QJP+hyU1TxJLQWiAMefNgPivVMgri9p/g=
 			</data>
 		</dict>
-		<key>UIBarButtonItemArrowLeft@3x.png</key>
+		<key>YK_minus@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			WaXQQVnp7T1r5xxj8vSyK21oAgY=
+			C453d8rb+qIjUc3FQCn/gfSC3qg=
 			</data>
 			<key>hash2</key>
 			<data>
-			Qq87UOqDc/baLwesLGyO2BTvVX915KFvVPw4cWP3QEg=
+			EMFfsJrY5xQE9OiVURDUQWByB2KLSV/wxabf7larp8U=
 			</data>
 		</dict>
-		<key>UIBarButtonItemArrowRight.png</key>
+		<key>YK_plus@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			4MKs8/OLm4432yY3l3sjdQordxw=
+			I6TEdXqvbaVSF1fdHTI87MQjTjk=
 			</data>
 			<key>hash2</key>
 			<data>
-			FyqkplNuw2Q4VyADsrT1nq4jP2admNc9i4m8YQTmV+U=
+			dCKcJiuNnVcwqpZHHR5bHzec3xCtQ2CRI5LlHumTwE8=
 			</data>
 		</dict>
-		<key>UIBarButtonItemArrowRight@2x.png</key>
+		<key>YK_plus@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			vN6FLbpdTj9250KKI/23Tb8XnsE=
+			fxOVFqYM0AHlqHK44UPZe3qXnqo=
 			</data>
 			<key>hash2</key>
 			<data>
-			PHhahuZfLNqOZAApj41wg22tnM/sDJKqx3p69sJGzQg=
+			lPfeXCZYtsg9tz167HTxOJqyRYDenvS9Kw1wN9j8lL4=
 			</data>
 		</dict>
-		<key>UIBarButtonItemArrowRight@3x.png</key>
+		<key>biaoji_normal@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			PIsaQctii3ry9UAckfF5xi2nkrI=
+			ZG1mjyL8f6ZfQSdbtHAiEq70Tuc=
 			</data>
 			<key>hash2</key>
 			<data>
-			XWnfbHPCMCHGBIHlknz4e3TkgcSBEfQCzjucVOHq+hA=
+			aKvHWBdMI32uK54xEvn8G1JiNDgbrERivVe9zdQQBSI=
 			</data>
 		</dict>
-		<key>UIBarButtonItemGrid.png</key>
+		<key>biaoji_normal@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Amc5zEUbaBZkxC4MDVseT2uToig=
+			vAZYX8S02e/nhD39NGKHtm671s8=
 			</data>
 			<key>hash2</key>
 			<data>
-			0ern5IXswO1HPdMyWlLDyKUnMP2d9LOgFqtzAZsQcRo=
+			QeuPvtNEiNpwuXiACihQWzwB+wRl/c6jlm7J/NSIooA=
 			</data>
 		</dict>
-		<key>UIBarButtonItemGrid@2x.png</key>
+		<key>biaoji_select@2x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c6+NoCdvrCZQnhvzugTAG2cFpwE=
+			ZOjR24SDv8rLXEBsutJj9JW+CYI=
 			</data>
 			<key>hash2</key>
 			<data>
-			HnAGTqM/7PsCedbMw9N9BV7f1F5OrcnUc+NCpae1PT4=
+			WAgY2yW9JJgxHwR8ftIBnhQ3L6tbbpsbGKZrcGQ4iac=
 			</data>
 		</dict>
-		<key>UIBarButtonItemGrid@3x.png</key>
+		<key>biaoji_select@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oa0leNeEEATv26/c70lrnfAj1Xw=
+			IOO6mcmV8bvqflCX0+EARPECj6A=
 			</data>
 			<key>hash2</key>
 			<data>
-			B78/fVlm+7+ce1i6cdD896CfLio5m7+2ZxvDghRb7R8=
-			</data>
-		</dict>
-		<key>VideoOverlay.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			2t4Z+Zfxb2yN/TiEj5AdupFk6cI=
-			</data>
-			<key>hash2</key>
-			<data>
-			4TtqB+5QW9JTQCWOVW1AENO7P7Px54mF8nKR3FsG5nA=
-			</data>
-		</dict>
-		<key>VideoOverlay@2x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			oeTCTrkhjiw3iBQ6Tma+LAb5h8o=
-			</data>
-			<key>hash2</key>
-			<data>
-			yg/5y5PC7KGBEz98iQVwkaag8UG6OTqbRCgRgqw5IJ0=
-			</data>
-		</dict>
-		<key>VideoOverlay@3x.png</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			hdPu2sPyB+wm+Cmi8eZuC+PpMzk=
-			</data>
-			<key>hash2</key>
-			<data>
-			jyRcF9DMhHcA8Nm2WEoDlpX/H3kGfzD5FDW01sQ5hj8=
+			dm5vOprvzWFXkTyuJ3Ky8HKSUKwhLspVQLDbRJxJONk=
 			</data>
 		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			oGEjFP65VkGZZw+LOkBlPXwqWz0=
+			BN2w2hW3zx3BAgn5GwizCLHDYFw=
 			</data>
 			<key>hash2</key>
 			<data>
-			tv6OHnU/NVeCLJynp/kWUqNBDmXdWPlIiCVw7MjUMOI=
+			LImZpyPoPseZgahUzqesOHLPOQE3uF5q0CzokaxvZck=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3238,11 +3682,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			50L/4fHwiE0do9F9HjPAk9yVjMo=
+			DtVxysSfo5/qMFTrrUmUDxgn+u4=
 			</data>
 			<key>hash2</key>
 			<data>
-			49OeRlluf9ytgsUXkr+TzKtm69paeP5ZYk2kZlYVaZU=
+			HNFmQXd1KGL7BXA1KvcCrIZL/oce+WxyVsnyQGyvYt4=
 			</data>
 			<key>optional</key>
 			<true/>

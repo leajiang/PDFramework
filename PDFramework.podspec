@@ -1,0 +1,22 @@
+Pod::Spec.new do |spec|
+spec.name         = 'PDFramework'
+spec.version      = '1.0.6'
+spec.license      = { :type => 'MIT' }
+spec.homepage     = 'https://github.com/leajiang/PDFramework'
+spec.authors      = { "jiangle" => "649498510@qq.com" }
+spec.summary      = 'jiangle.'
+spec.source       = { :git => 'https://github.com/leajiang/PDFramework.git', :tag =>'1.0.6'  }
+spec.platform     = :ios, '8.0'
+spec.vendored_frameworks = 'PDFramework.framework'
+spec.frameworks   = 'UIKit','AVFoundation','Foundation'
+spec.dependency 'AFNetworking'
+spec.dependency 'MJRefresh'
+spec.dependency 'MWPhotoBrowser'
+spec.dependency 'SDWebImage'
+spec.dependency 'MBProgressHUD'
+spec.dependency 'DACircularProgress'
+spec.dependency 'Masonry'
+spec.dependency 'IQKeyboardManager'
+spec.dependency 'BaiduMobStatCodeless'
+spec.dependency 'Hyphenate','~>3.5.1'
+end

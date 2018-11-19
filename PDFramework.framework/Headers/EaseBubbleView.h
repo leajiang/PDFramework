@@ -21,6 +21,7 @@ extern NSString *const EaseMessageCellIdentifierSendVoice;
 extern NSString *const EaseMessageCellIdentifierSendVideo;
 extern NSString *const EaseMessageCellIdentifierSendImage;
 extern NSString *const EaseMessageCellIdentifierSendFile;
+extern NSString *const EaseMessageCellIdentifierSendSpeech;
 
 extern NSString *const EaseMessageCellIdentifierRecvText;
 extern NSString *const EaseMessageCellIdentifierRecvLocation;
@@ -28,6 +29,7 @@ extern NSString *const EaseMessageCellIdentifierRecvVoice;
 extern NSString *const EaseMessageCellIdentifierRecvVideo;
 extern NSString *const EaseMessageCellIdentifierRecvImage;
 extern NSString *const EaseMessageCellIdentifierRecvFile;
+extern NSString *const EaseMessageCellIdentifierRecvSpeech;
 
 @interface EaseBubbleView : UIView
 {

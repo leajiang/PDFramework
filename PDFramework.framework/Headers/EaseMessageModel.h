@@ -19,6 +19,10 @@
 #import <Hyphenate/EMMessage.h>
 #endif
 
+typedef enum {
+    EMMessageBodyTypeSpeech = EMMessageBodyTypeCmd + 1,
+} EMMessageExtBodyType;
+
 /** @brief 消息模型 */
 
 @interface EaseMessageModel : NSObject<IMessageModel>
@@ -28,11 +32,11 @@
 /** @brief 消息对象 */
 @property (strong, nonatomic, readonly) EMMessage *message;
 /** @brief 消息体 */
-@property (strong, nonatomic, readonly) EMMessageBody *firstMessageBody;
+@property (strong, nonatomic) EMMessageBody *firstMessageBody;
 /** @brief 消息id */
 @property (strong, nonatomic, readonly) NSString *messageId;
 /** @brief 消息体类型 */
-@property (nonatomic, readonly) EMMessageBodyType bodyType;
+@property (nonatomic) EMMessageBodyType bodyType;
 /** @brief 消息发送状态 */
 @property (nonatomic, readonly) EMMessageStatus messageStatus;
 /** @brief 聊天类型 */
@@ -73,6 +77,11 @@
 @property (nonatomic) BOOL isMediaPlayed;
 /** @brief 语音消息(或视频消息)时长 */
 @property (nonatomic) CGFloat mediaDuration;
+/** @brief 语音消息转文字是否已完成 */
+@property (nonatomic) BOOL isMediaSpeech;
+/** @brief 语音消息转文字 */
+@property (nonatomic) NSString *mediaSpeechText;
+
 /** @brief 附件显示的图标图片名 */
 @property (strong, nonatomic) NSString *fileIconName;
 /** @brief 文件消息的附件显示名 */

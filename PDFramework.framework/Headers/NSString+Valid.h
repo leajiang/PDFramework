@@ -16,4 +16,15 @@
 
 - (BOOL)isChinese;
 
+/**
+ parse JSON data
+ **/
++ (NSString *)stringFromJson:(NSString*)params;//
+
+
+/**
+ parse JSON data for cloud grammar recognition
+ **/
++ (NSString *)stringFromABNFJson:(NSString*)params;
+
 @end

@@ -19,12 +19,14 @@
 #import "EaseMessageModel.h"
 #import "EaseBaseMessageCell.h"
 #import "EaseMessageTimeCell.h"
+#import "EaseMessageRemindCell.h"
 #import "EaseChatToolbar.h"
 #import "EaseLocationViewController.h"
 #import "EMCDDeviceManager+Media.h"
 #import "EMCDDeviceManager+ProximitySensor.h"
 #import "UIViewController+HUD.h"
 #import "EaseSDKHelper.h"
+#import "BaseChatlistView.h"
 
 @interface EaseAtTarget : NSObject
 @property (nonatomic, copy) NSString    *userId;
@@ -306,6 +308,14 @@ shouldSendHasReadAckForMessage:(EMMessage *)message
 
 @property (weak, nonatomic) id<EaseMessageViewControllerDataSource> dataSource;
 
+/**
+ 类型
+ */
+
+@property(nonatomic,assign)Conversation conversationType;
+
+@property(nonatomic,strong)NSDictionary *userInfo;//用户信息
+
 /*!
  @property
  @brief 聊天的会话对象
@@ -341,6 +351,12 @@ shouldSendHasReadAckForMessage:(EMMessage *)message
  @brief 加载的每页message的条数
  */
 @property (nonatomic) NSInteger messageCountOfPage; //default 50
+
+/*!
+ @property
+ @brief 提示分割cell的高度
+ */
+@property (nonatomic) CGFloat remindCellHeight;
 
 /*!
  @property
