@@ -26,7 +26,7 @@
 + (void)pdLoginConsultOnlineViewcontroller:(UIViewController *)controller withUserName:(NSString *)userName withUserTenantId:(NSString *)tenantId withUserHeadUrl:(NSString *)headUrl successBlock:(void(^)(void))asuccess errorBlock:(void(^)(NSString *string))aerror;
 
 
-注意：退出应用时请使用用+ (void)userLogoutPDClient;
+注意：退出应用时请使用+ (void)userLogoutPDClient;
 具体回调和方法请查看PDChatManager.h头文件
 
 
