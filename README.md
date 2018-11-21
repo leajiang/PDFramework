@@ -6,7 +6,7 @@
 
 使用Pod集成
 
-在Podfile加入pod 'PDFramework','~>3.5.1'即可使用
+在Podfile加入pod 'PDFramework','~>1.0.8'即可使用
 
 1.使用时请导入库头文件#import <PDFramework/PDFramework.h>
 
