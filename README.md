@@ -21,11 +21,11 @@
 
 @param controller 当前视图控制器（必填）
 
-@param userName 当前用户名（必填）
+@param userName 当前租户名（必填）
 
-@param tenantId 当前用户ID（必填）
+@param tenantId 当前租户ID（必填）
 
-@param headUrl 当前用户头像（选填）
+@param headUrl 当前租户头像（选填）
 
 */
 
