@@ -4,7 +4,7 @@
 
 使用说明：
 
-使用Pod集成
+暂不支持手动添加请使用Pod集成
 
 在Podfile加入pod 'PDFramework','~>1.0.8'即可使用
 
@@ -27,6 +27,7 @@
 
 
 注意：退出应用时请使用+ (void)userLogoutPDClient;
+
 具体回调和方法请查看PDChatManager.h头文件
 
 
