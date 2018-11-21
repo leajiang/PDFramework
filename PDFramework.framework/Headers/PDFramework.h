@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char PDFrameworkVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <PDFramework/PublicHeader.h>
 
-#import <PDFramework/EaseConsultListViewController.h>
+#import <PDFramework/PDChatManager.h>
