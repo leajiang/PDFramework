@@ -5,7 +5,10 @@
 在Podfile加入pod 'PDFramework','~>3.5.1'即可使用
 
 1.使用时请导入库头文件#import <PDFramework/PDFramework.h>
-2.添加初始化方法已经回调[PDChatManager initializePDChatSDKDelegate:nil delegateQueue:nil];
+
+2.添加初始化方法已经回调
++ (void)initializePDChatSDKDelegate:(id<PDChatManagerDelegate>)adelegate delegateQueue:(dispatch_queue_t)aQueue;
+
 3.使用PDChatManager静态方法
 
 /**
