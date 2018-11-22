@@ -98,47 +98,51 @@ typedef enum {
 @end
 
 @interface PDChatManager : NSObject
+
 /**
  初始化SDK
  */
 + (void)initializePDChatSDKDelegate:(id<PDChatManagerDelegate>)adelegate delegateQueue:(dispatch_queue_t)aQueue;
 
 /**
- 退出SDK
+ 是否显示日志
+
+ @param iFlag 标记 默认NO
  */
-+ (void)userLogoutPDClient;
++ (void)isShowLog:(BOOL)iFlag;
 
 /**
  客服端登录接口
 
- @param controller 当前视图控制器（必填）
  @param userName 当前用户名（必填）
  @param tenantId 当前用户ID（必填）
  @param headUrl 当前用户头像（选填）
+ @param asuccess 成功回调
+ @param aerror 失败回调
  */
-+ (void)pdLoginConsultOnlineViewcontroller:(UIViewController *)controller
-                               withUserName:(NSString *)userName
-                           withUserTenantId:(NSString *)tenantId
-                           withUserHeadUrl:(NSString *)headUrl
-                              successBlock:(void(^)(void))asuccess
-                                errorBlock:(void(^)(NSString *string))aerror;
++ (void)pdLoginWithUsername:(NSString *)userName
+           withUserTenantId:(NSString *)tenantId
+            withUserHeadUrl:(NSString *)headUrl
+               successBlock:(void(^)(void))asuccess
+                 errorBlock:(void(^)(NSString *string))aerror;
 
 
 /**
- 测试客服端登录接口（上线删除）
+ 进入聊天列表接口(必须先登录)
 
  @param controller 当前视图控制器（必填）
- @param hxAccount 环信账号
- @param hxPwd 环信密码
- @param tenantId 租户ID
- @param asuccess 成功
- @param aerror 失败
  */
-+ (void)testpdLoginConsultOnlineViewcontroller:(UIViewController *)controller
-                                 withhxAccount:(NSString *)hxAccount
-                                     withhxPwd:(NSString *)hxPwd
-                              withUserTenantId:(NSString *)tenantId
-                                  successBlock:(void(^)(void))asuccess
-                                    errorBlock:(void(^)(NSString *string))aerror;
++ (void)pdIntoConsultOnlineViewcontroller:(UIViewController *)controller;
+
+/**
+ 获取当前客服未读消息条数(必须先登录)
+ */
++ (NSInteger)pdChatUnreadmessageCount;
+
+/**
+ 退出SDK
+ */
++ (void)userLogoutPDClient;
+
 
 @end
