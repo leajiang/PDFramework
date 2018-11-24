@@ -145,4 +145,20 @@ typedef enum {
 + (void)userLogoutPDClient;
 
 
+
+/**
+ 测试使用（请勿用）
+
+ @param hxAccount <#hxAccount description#>
+ @param hxPwd <#hxPwd description#>
+ @param tenantId <#tenantId description#>
+ @param asuccess <#asuccess description#>
+ @param pderror <#pderror description#>
+ */
++ (void)testpdLoginWithhxAccount:(NSString *)hxAccount
+                       withhxPwd:(NSString *)hxPwd
+                withUserTenantId:(NSString *)tenantId
+                    successBlock:(void(^)(void))asuccess
+                      errorBlock:(void(^)(NSString *string))pderror;
+
 @end
