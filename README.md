@@ -6,7 +6,7 @@
 
 暂不支持手动添加请使用Pod集成
 
-在Podfile加入pod 'PDFramework','~>1.1.1'即可使用
+在Podfile加入pod 'PDFramework','~>1.1.2'即可使用
 
 1.使用时请导入库头文件#import <PDFramework/PDFramework.h>
 
