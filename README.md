@@ -23,8 +23,6 @@
 
 @param tenantId 当前租户ID（必填）
 
-@param headUrl 当前租户头像（选填）
-
 */
 
 +(void)pdLoginWithUsername:(NSString *)userName withUserTenantId:(NSString *)tenantId  successBlock:(void(^)(void))asuccess errorBlock:(void(^)(NSString *string))aerror;
