@@ -113,7 +113,7 @@ typedef enum {
 
 /**
  客服端登录接口
-
+ 
  @param userName 当前用户名（必填）
  @param tenantId 当前用户ID（必填）
  @param headUrl 当前用户头像（选填）
@@ -122,10 +122,8 @@ typedef enum {
  */
 + (void)pdLoginWithUsername:(NSString *)userName
            withUserTenantId:(NSString *)tenantId
-            withUserHeadUrl:(NSString *)headUrl
                successBlock:(void(^)(void))asuccess
                  errorBlock:(void(^)(NSString *string))aerror;
-
 
 /**
  进入聊天列表接口(必须先登录)
@@ -143,22 +141,5 @@ typedef enum {
  退出SDK
  */
 + (void)userLogoutPDClient;
-
-
-
-/**
- 测试使用（请勿用）
-
- @param hxAccount <#hxAccount description#>
- @param hxPwd <#hxPwd description#>
- @param tenantId <#tenantId description#>
- @param asuccess <#asuccess description#>
- @param pderror <#pderror description#>
- */
-+ (void)testpdLoginWithhxAccount:(NSString *)hxAccount
-                       withhxPwd:(NSString *)hxPwd
-                withUserTenantId:(NSString *)tenantId
-                    successBlock:(void(^)(void))asuccess
-                      errorBlock:(void(^)(NSString *string))pderror;
 
 @end

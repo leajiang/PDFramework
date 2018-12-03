@@ -6,7 +6,7 @@
 
 暂不支持手动添加请使用Pod集成
 
-在Podfile加入pod 'PDFramework','~>1.1.3'即可使用
+在Podfile加入pod 'PDFramework','~>1.1.4'即可使用
 
 1.使用时请导入库头文件#import <PDFramework/PDFramework.h>
 
@@ -27,7 +27,7 @@
 
 */
 
-+(void)pdLoginWithUsername:(NSString *)userName withUserTenantId:(NSString *)tenantId withUserHeadUrl:(NSString *)headUrl successBlock:(void(^)(void))asuccess errorBlock:(void(^)(NSString *string))aerror;
++(void)pdLoginWithUsername:(NSString *)userName withUserTenantId:(NSString *)tenantId  successBlock:(void(^)(void))asuccess errorBlock:(void(^)(NSString *string))aerror;
 
 4.进入聊天列表
 
