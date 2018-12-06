@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "租户ID"; ObjectID = "2g2-Ie-Kxi"; */
+"2g2-Ie-Kxi.text" = "租户ID";
+
+/* Class = "UIButton"; normalTitle = "进入聊天列表"; ObjectID = "I3s-ru-Exg"; */
+"I3s-ru-Exg.normalTitle" = "进入聊天列表";
+
+/* Class = "UIButton"; normalTitle = "连接"; ObjectID = "Tkh-Ks-HsY"; */
+"Tkh-Ks-HsY.normalTitle" = "连接";
+
+/* Class = "UILabel"; text = "租户名"; ObjectID = "UjA-YI-jE4"; */
+"UjA-YI-jE4.text" = "租户名";
+
+/* Class = "UIButton"; normalTitle = "获取消息未读条数"; ObjectID = "YEp-ca-6um"; */
+"YEp-ca-6um.normalTitle" = "获取消息未读条数";
+
+/* Class = "UIButton"; normalTitle = "注销"; ObjectID = "izx-vw-AXs"; */
+"izx-vw-AXs.normalTitle" = "注销";
+
+/* Class = "UILabel"; text = "未连接"; ObjectID = "mDh-Y8-FEO"; */
+"mDh-Y8-FEO.text" = "未连接";

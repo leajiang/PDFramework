@@ -1,0 +1,6 @@
+framework module Pods_PDFrameworkDemo {
+  umbrella header "Pods-PDFrameworkDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
