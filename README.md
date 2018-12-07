@@ -6,7 +6,7 @@
 
 暂不支持手动添加请使用Pod集成
 
-在Podfile加入pod 'PDFramework','~>1.1.6'即可使用
+在Podfile加入pod 'PDFramework','~>1.1.7'即可使用
 
 1.使用时请导入库头文件#import <PDFramework/PDFramework.h>
 
@@ -39,9 +39,9 @@
 +(void)pdIntoConsultOnlineViewcontroller:(UIViewController *)controller;
 
 
-注意：退出应用时请使用+ (void)userLogoutPDClient;
+    注意： 退出应用时请使用+ (void)userLogoutPDClient;
 
-具体回调和方法请查看PDChatManager.h头文件
+    工程中请添加相机，相册，麦克风等权限
 
-
+    具体回调和方法请查看PDChatManager.h头文件
 

@@ -95,10 +95,20 @@ typedef enum {
  */
 - (void)userAccountDidForcedToLogout:(NSString *)aError;
 
+
+/**
+ 当前未读消息条数的回调
+
+ @param count 未读条数
+ */
+- (void)pdChatUnreadmessageCount:(NSInteger)count;
+
 @end
 
 @interface PDChatManager : NSObject
 
+
++ (instancetype)shareManager;
 /**
  初始化SDK
  */
