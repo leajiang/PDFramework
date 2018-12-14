@@ -1,11 +1,11 @@
 Pod::Spec.new do |spec|
 spec.name         = 'PDFramework'
-spec.version      = '1.1.7'
+spec.version      = '1.1.8'
 spec.license      = { :type => 'MIT' }
 spec.homepage     = 'https://github.com/leajiang/PDFramework'
 spec.authors      = { "jiangle" => "649498510@qq.com" }
 spec.summary      = 'jiangle.'
-spec.source       = { :git => 'https://github.com/leajiang/PDFramework.git', :tag =>'1.1.7'  }
+spec.source       = { :git => 'https://github.com/leajiang/PDFramework.git', :tag =>'1.1.8'  }
 spec.platform     = :ios, '8.0'
 spec.vendored_frameworks = 'PDFramework.framework'
 spec.frameworks   = 'UIKit','AVFoundation','Foundation'

@@ -38,7 +38,6 @@ typedef enum {
  *  \~english
  *  Invoked when server connection state has changed
  *
- *  @param aConnectionState Current state
  */
 - (void)connectionStateDidChange:(PDConnectionState)aConnectionState;
 
@@ -51,7 +50,6 @@ typedef enum {
  *  \~english
  *  Invoked when auto login is completed
  *
- *  @param aError Error
  */
 - (void)autoLoginDidCompleteWithError:(NSString *)aError;
 
@@ -97,7 +95,7 @@ typedef enum {
 
 
 /**
- 当前未读消息条数的回调
+ 当前未读消息条数的实时回调
 
  @param count 未读条数
  */
@@ -107,8 +105,6 @@ typedef enum {
 
 @interface PDChatManager : NSObject
 
-
-+ (instancetype)shareManager;
 /**
  初始化SDK
  */
@@ -124,9 +120,8 @@ typedef enum {
 /**
  客服端登录接口
  
- @param userName 当前用户名（必填）
- @param tenantId 当前用户ID（必填）
- @param headUrl 当前用户头像（选填）
+ @param userName 当前租户名（必填）
+ @param tenantId 当前租户ID（必填）
  @param asuccess 成功回调
  @param aerror 失败回调
  */
