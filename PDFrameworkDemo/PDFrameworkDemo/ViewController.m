@@ -22,8 +22,8 @@
     [PDChatManager initializePDChatSDKDelegate:self delegateQueue:nil];
     [PDChatManager isShowLog:YES];
     
-    self.userTf.text = @"sbn";
-    self.pwdTf.text = @"144";
+    self.userTf.text = @"miaomiao";
+    self.pwdTf.text = @"171";
     // Do any additional setup after loading the view, typically from a nib.
 }
 -(BOOL)userWithPwdLogic{
