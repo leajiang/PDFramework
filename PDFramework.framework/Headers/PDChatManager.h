@@ -137,6 +137,18 @@ typedef enum {
  */
 + (void)pdIntoConsultOnlineViewcontroller:(UIViewController *)controller;
 
+
+/**
+ 通讯录同事聊天
+
+ @param controller 当前视图控制器（必填）
+ @param hxAccount 当前同事的环信账号（必填）
+ @param nickname 同事昵称（选填）
+ */
++ (void)pdIntoColleagueOnlineViewcontroller:(UIViewController *)controller
+                              withHxAccount:(NSString *)hxAccount
+                               withNickname:(NSString *)nickname;
+
 /**
  获取当前客服未读消息条数(必须先登录)
  */
