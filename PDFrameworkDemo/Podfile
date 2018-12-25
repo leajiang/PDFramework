@@ -3,6 +3,6 @@ use_frameworks!
 platform :ios, '8.0'
 target 'PDFrameworkDemo' do
 
-pod 'PDFramework','~>1.1.8'
+pod 'PDFramework','~>2.0.0'
 
 end

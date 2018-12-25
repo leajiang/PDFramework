@@ -120,13 +120,11 @@ typedef enum {
 /**
  客服端登录接口
  
- @param userName 当前租户名（必填）
- @param tenantId 当前租户ID（必填）
+ @param orgUserId 机构用户ID（必填）
  @param asuccess 成功回调
  @param aerror 失败回调
  */
-+ (void)pdLoginWithUsername:(NSString *)userName
-           withUserTenantId:(NSString *)tenantId
++ (void)pdLoginWithOrgUserId:(NSString *)orgUserId
                successBlock:(void(^)(void))asuccess
                  errorBlock:(void(^)(NSString *string))aerror;
 
@@ -139,14 +137,14 @@ typedef enum {
 
 
 /**
- 通讯录同事聊天
+ 通讯录同事聊天(必须先登录)
 
  @param controller 当前视图控制器（必填）
- @param hxAccount 当前同事的环信账号（必填）
+ @param orgUserId 当前同事的机构用户ID（必填）
  @param nickname 同事昵称（选填）
  */
 + (void)pdIntoColleagueOnlineViewcontroller:(UIViewController *)controller
-                              withHxAccount:(NSString *)hxAccount
+                              withOrgUserId:(NSString *)orgUserId
                                withNickname:(NSString *)nickname;
 
 /**
