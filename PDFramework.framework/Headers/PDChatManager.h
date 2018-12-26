@@ -157,4 +157,18 @@ typedef enum {
  */
 + (void)userLogoutPDClient;
 
+
+/**
+ 测试使用
+ 
+ @param userName 当前租户名（必填）
+ @param tenantId 当前租户ID（必填）
+ @param asuccess 成功回调
+ @param aerror 失败回调
+ */
++ (void)pdLoginWithUsername:(NSString *)userName
+           withUserTenantId:(NSString *)tenantId
+               successBlock:(void(^)(void))asuccess
+                 errorBlock:(void(^)(NSString *string))aerror;
+
 @end
