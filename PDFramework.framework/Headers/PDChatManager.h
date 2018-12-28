@@ -157,8 +157,9 @@ typedef enum {
 
 /**
  获取当前客服未读消息条数(必须先登录)
+ 会触发pdChatUnreadmessageCount:回调
  */
-+ (NSInteger)pdChatUnreadmessageCount;
++ (void)pdChatUnreadMessageCountAction;
 
 /**
  退出SDK
