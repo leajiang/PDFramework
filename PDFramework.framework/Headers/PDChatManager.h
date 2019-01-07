@@ -148,7 +148,7 @@ typedef enum {
  通讯录同事聊天(必须先登录)
 
  @param controller 当前视图控制器（必填）
- @param hxAccount 当前同事的机构用户ID（必填）
+ @param orgUserId 当前同事的机构用户ID（必填）
  @param nickname 同事昵称（选填）
  */
 + (void)pdIntoColleagueOnlineViewcontroller:(UIViewController *)controller

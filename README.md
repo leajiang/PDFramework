@@ -6,7 +6,7 @@
 
     暂不支持手动添加请使用Pod集成
 
-    在Podfile加入pod 'PDFramework','2.0.9'即可使用（需要在Podfile添加use_frameworks!）
+    在Podfile加入pod 'PDFramework','2.1.0'即可使用（需要在Podfile添加use_frameworks!）
 
     1.使用时请导入库头文件#import <PDFramework/PDFramework.h>
 
